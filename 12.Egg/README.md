@@ -13,6 +13,7 @@ see [egg docs][egg] for more detail.
 ```bash
 $ npm i
 $ npm run dev
+$ npm run model //自定义的script命令，把数据库表信息拉下来，不用自己写model层代码；
 $ open http://localhost:7001/
 ```
 
