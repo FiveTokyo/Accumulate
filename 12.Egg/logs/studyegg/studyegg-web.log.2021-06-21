@@ -1,0 +1,54 @@
+2021-06-21 20:20:28,612 ERROR 32097 [-/127.0.0.1/-/0ms GET /] nodejs.PROTOCOL_SEQUENCE_TIMEOUTError: Handshake inactivity timeout
+    at Handshake.<anonymous> (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/mysql/lib/protocol/Protocol.js:160:17)
+    at Handshake.emit (events.js:375:28)
+    at Handshake._onTimeout (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/mysql/lib/protocol/sequences/Sequence.js:124:8)
+    at Timer._onTimeout (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/mysql/lib/protocol/Timer.js:32:23)
+    at listOnTimeout (internal/timers.js:557:17)
+    at processTimers (internal/timers.js:500:7)
+    --------------------
+    at Protocol._enqueue (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at Protocol.handshake (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/mysql/lib/protocol/Protocol.js:51:23)
+    at PoolConnection.connect (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/mysql/lib/Connection.js:116:18)
+    at Pool.getConnection (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/mysql/lib/Pool.js:48:16)
+    at /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/ali-rds/node_modules/pify/index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/ali-rds/node_modules/pify/index.js:12:10)
+    at Pool.ret [as getConnection] (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/ali-rds/node_modules/pify/index.js:56:34)
+    at Pool.query (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/mysql/lib/Pool.js:202:8)
+    at /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/ali-rds/node_modules/pify/index.js:29:7
+    sql: select now() as currentTime;
+code: "PROTOCOL_SEQUENCE_TIMEOUT"
+fatal: true
+timeout: 10000
+name: "PROTOCOL_SEQUENCE_TIMEOUTError"
+pid: 32097
+hostname: Tokyos-MBP
+
+2021-06-21 20:20:39,217 ERROR 32104 [-/127.0.0.1/-/1ms GET /] nodejs.PROTOCOL_SEQUENCE_TIMEOUTError: Handshake inactivity timeout
+    at Handshake.<anonymous> (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/mysql/lib/protocol/Protocol.js:160:17)
+    at Handshake.emit (events.js:375:28)
+    at Handshake._onTimeout (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/mysql/lib/protocol/sequences/Sequence.js:124:8)
+    at Timer._onTimeout (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/mysql/lib/protocol/Timer.js:32:23)
+    at listOnTimeout (internal/timers.js:557:17)
+    at processTimers (internal/timers.js:500:7)
+    --------------------
+    at Protocol._enqueue (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at Protocol.handshake (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/mysql/lib/protocol/Protocol.js:51:23)
+    at PoolConnection.connect (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/mysql/lib/Connection.js:116:18)
+    at Pool.getConnection (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/mysql/lib/Pool.js:48:16)
+    at /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/ali-rds/node_modules/pify/index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/ali-rds/node_modules/pify/index.js:12:10)
+    at Pool.ret [as getConnection] (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/ali-rds/node_modules/pify/index.js:56:34)
+    at Pool.query (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/mysql/lib/Pool.js:202:8)
+    at /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/ali-rds/node_modules/pify/index.js:29:7
+    sql: select now() as currentTime;
+code: "PROTOCOL_SEQUENCE_TIMEOUT"
+fatal: true
+timeout: 10000
+name: "PROTOCOL_SEQUENCE_TIMEOUTError"
+pid: 32104
+hostname: Tokyos-MBP
+
+2021-06-21 20:38:39,945 INFO 32517 [egg-sequelize](61ms) Executed (default): SELECT 1+1 AS result
+2021-06-21 22:05:01,492 INFO 34002 [egg-sequelize](87ms) Executed (default): SELECT 1+1 AS result

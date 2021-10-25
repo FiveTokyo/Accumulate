@@ -1,0 +1,464 @@
+2021-06-25 00:19:02,662 ERROR 15606 nodejs.ClusterClientNoResponseError: client no response in 938797ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:557:17)
+    at processTimers (internal/timers.js:500:7)
+name: "ClusterClientNoResponseError"
+pid: 15606
+hostname: Tokyos-MacBook-Pro.local
+
+2021-06-25 00:27:51,421 ERROR 15606 nodejs.ClusterClientNoResponseError: client no response in 528752ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:557:17)
+    at processTimers (internal/timers.js:500:7)
+name: "ClusterClientNoResponseError"
+pid: 15606
+hostname: Tokyos-MacBook-Pro.local
+
+2021-06-25 01:21:10,569 ERROR 15606 nodejs.ClusterClientNoResponseError: client no response in 988238ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:557:17)
+    at processTimers (internal/timers.js:500:7)
+name: "ClusterClientNoResponseError"
+pid: 15606
+hostname: Tokyos-MacBook-Pro.local
+
+2021-06-25 01:41:02,539 ERROR 15606 nodejs.ClusterClientNoResponseError: client no response in 1071930ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:557:17)
+    at processTimers (internal/timers.js:500:7)
+name: "ClusterClientNoResponseError"
+pid: 15606
+hostname: Tokyos-MacBook-Pro.local
+
+2021-06-25 02:30:07,189 ERROR 15606 nodejs.ClusterClientNoResponseError: client no response in 993645ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:557:17)
+    at processTimers (internal/timers.js:500:7)
+name: "ClusterClientNoResponseError"
+pid: 15606
+hostname: Tokyos-MacBook-Pro.local
+
+2021-06-25 02:46:14,884 ERROR 15606 nodejs.ClusterClientNoResponseError: client no response in 927690ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:557:17)
+    at processTimers (internal/timers.js:500:7)
+name: "ClusterClientNoResponseError"
+pid: 15606
+hostname: Tokyos-MacBook-Pro.local
+
+2021-06-25 03:54:36,513 ERROR 15606 nodejs.ClusterClientNoResponseError: client no response in 1030598ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:557:17)
+    at processTimers (internal/timers.js:500:7)
+name: "ClusterClientNoResponseError"
+pid: 15606
+hostname: Tokyos-MacBook-Pro.local
+
+2021-06-25 04:10:25,188 ERROR 15606 nodejs.ClusterClientNoResponseError: client no response in 908644ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:557:17)
+    at processTimers (internal/timers.js:500:7)
+name: "ClusterClientNoResponseError"
+pid: 15606
+hostname: Tokyos-MacBook-Pro.local
+
+2021-06-25 04:45:38,583 ERROR 15606 nodejs.ClusterClientNoResponseError: client no response in 963671ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:557:17)
+    at processTimers (internal/timers.js:500:7)
+name: "ClusterClientNoResponseError"
+pid: 15606
+hostname: Tokyos-MacBook-Pro.local
+
+2021-06-25 05:03:05,346 ERROR 15606 nodejs.ClusterClientNoResponseError: client no response in 1006760ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:557:17)
+    at processTimers (internal/timers.js:500:7)
+name: "ClusterClientNoResponseError"
+pid: 15606
+hostname: Tokyos-MacBook-Pro.local
+
+2021-06-25 05:37:10,040 ERROR 15606 nodejs.ClusterClientNoResponseError: client no response in 950982ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:557:17)
+    at processTimers (internal/timers.js:500:7)
+name: "ClusterClientNoResponseError"
+pid: 15606
+hostname: Tokyos-MacBook-Pro.local
+
+2021-06-25 05:53:25,638 ERROR 15606 nodejs.ClusterClientNoResponseError: client no response in 935610ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:557:17)
+    at processTimers (internal/timers.js:500:7)
+name: "ClusterClientNoResponseError"
+pid: 15606
+hostname: Tokyos-MacBook-Pro.local
+
+2021-06-25 06:42:17,194 ERROR 15606 nodejs.ClusterClientNoResponseError: client no response in 926188ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:557:17)
+    at processTimers (internal/timers.js:500:7)
+name: "ClusterClientNoResponseError"
+pid: 15606
+hostname: Tokyos-MacBook-Pro.local
+
+2021-06-25 06:58:51,817 ERROR 15606 nodejs.ClusterClientNoResponseError: client no response in 954598ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:557:17)
+    at processTimers (internal/timers.js:500:7)
+name: "ClusterClientNoResponseError"
+pid: 15606
+hostname: Tokyos-MacBook-Pro.local
+
+2021-06-25 07:15:12,347 ERROR 15606 nodejs.ClusterClientNoResponseError: client no response in 940596ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:557:17)
+    at processTimers (internal/timers.js:500:7)
+name: "ClusterClientNoResponseError"
+pid: 15606
+hostname: Tokyos-MacBook-Pro.local
+
+2021-06-25 07:32:32,070 ERROR 15606 nodejs.ClusterClientNoResponseError: client no response in 999708ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:557:17)
+    at processTimers (internal/timers.js:500:7)
+name: "ClusterClientNoResponseError"
+pid: 15606
+hostname: Tokyos-MacBook-Pro.local
+
+2021-06-25 07:50:29,851 ERROR 15606 nodejs.ClusterClientNoResponseError: client no response in 1017750ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:557:17)
+    at processTimers (internal/timers.js:500:7)
+name: "ClusterClientNoResponseError"
+pid: 15606
+hostname: Tokyos-MacBook-Pro.local
+
+2021-06-25 08:06:21,674 ERROR 15606 nodejs.ClusterClientNoResponseError: client no response in 911654ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:557:17)
+    at processTimers (internal/timers.js:500:7)
+name: "ClusterClientNoResponseError"
+pid: 15606
+hostname: Tokyos-MacBook-Pro.local
+
+2021-06-25 08:22:42,400 ERROR 15606 nodejs.ClusterClientNoResponseError: client no response in 940626ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:557:17)
+    at processTimers (internal/timers.js:500:7)
+name: "ClusterClientNoResponseError"
+pid: 15606
+hostname: Tokyos-MacBook-Pro.local
+
+2021-06-25 08:52:17,785 ERROR 15606 nodejs.ClusterClientNoResponseError: client no response in 994485ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:557:17)
+    at processTimers (internal/timers.js:500:7)
+name: "ClusterClientNoResponseError"
+pid: 15606
+hostname: Tokyos-MacBook-Pro.local
+
+2021-06-25 09:08:24,403 ERROR 15606 nodejs.ClusterClientNoResponseError: client no response in 926627ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:557:17)
+    at processTimers (internal/timers.js:500:7)
+name: "ClusterClientNoResponseError"
+pid: 15606
+hostname: Tokyos-MacBook-Pro.local
+
+2021-06-25 09:24:15,071 ERROR 15606 nodejs.ClusterClientNoResponseError: client no response in 910653ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:557:17)
+    at processTimers (internal/timers.js:500:7)
+name: "ClusterClientNoResponseError"
+pid: 15606
+hostname: Tokyos-MacBook-Pro.local
+
+2021-06-25 09:43:05,882 ERROR 15606 nodejs.ClusterClientNoResponseError: client no response in 1050830ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:557:17)
+    at processTimers (internal/timers.js:500:7)
+name: "ClusterClientNoResponseError"
+pid: 15606
+hostname: Tokyos-MacBook-Pro.local
+
+2021-06-25 10:00:35,603 ERROR 15606 nodejs.ClusterClientNoResponseError: client no response in 1009672ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:557:17)
+    at processTimers (internal/timers.js:500:7)
+name: "ClusterClientNoResponseError"
+pid: 15606
+hostname: Tokyos-MacBook-Pro.local
+
+2021-06-25 10:33:36,820 ERROR 15606 nodejs.ClusterClientNoResponseError: client no response in 974639ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:557:17)
+    at processTimers (internal/timers.js:500:7)
+name: "ClusterClientNoResponseError"
+pid: 15606
+hostname: Tokyos-MacBook-Pro.local
+
+2021-06-25 10:38:30,930 ERROR 15606 nodejs.ClusterClientNoResponseError: client no response in 254098ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:557:17)
+    at processTimers (internal/timers.js:500:7)
+name: "ClusterClientNoResponseError"
+pid: 15606
+hostname: Tokyos-MacBook-Pro.local
+
+2021-06-25 11:23:09,550 ERROR 15606 nodejs.ClusterClientNoResponseError: client no response in 920113ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:557:17)
+    at processTimers (internal/timers.js:500:7)
+name: "ClusterClientNoResponseError"
+pid: 15606
+hostname: Tokyos-MacBook-Pro.local
+
+2021-06-25 11:40:07,771 ERROR 15606 nodejs.ClusterClientNoResponseError: client no response in 978216ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:557:17)
+    at processTimers (internal/timers.js:500:7)
+name: "ClusterClientNoResponseError"
+pid: 15606
+hostname: Tokyos-MacBook-Pro.local
+
+2021-06-25 11:56:51,481 ERROR 15606 nodejs.ClusterClientNoResponseError: client no response in 963587ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:557:17)
+    at processTimers (internal/timers.js:500:7)
+name: "ClusterClientNoResponseError"
+pid: 15606
+hostname: Tokyos-MacBook-Pro.local
+
+2021-06-25 12:28:44,793 ERROR 15606 nodejs.ClusterClientNoResponseError: client no response in 926659ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:557:17)
+    at processTimers (internal/timers.js:500:7)
+name: "ClusterClientNoResponseError"
+pid: 15606
+hostname: Tokyos-MacBook-Pro.local
+
+2021-06-25 12:44:30,647 ERROR 15606 nodejs.ClusterClientNoResponseError: client no response in 905829ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:557:17)
+    at processTimers (internal/timers.js:500:7)
+name: "ClusterClientNoResponseError"
+pid: 15606
+hostname: Tokyos-MacBook-Pro.local
+
+2021-06-25 13:14:46,329 ERROR 15606 nodejs.ClusterClientNoResponseError: client no response in 763963ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:557:17)
+    at processTimers (internal/timers.js:500:7)
+name: "ClusterClientNoResponseError"
+pid: 15606
+hostname: Tokyos-MacBook-Pro.local
+
+2021-06-25 13:17:27,891 ERROR 15606 nodejs.ClusterClientNoResponseError: client no response in 161559ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:557:17)
+    at processTimers (internal/timers.js:500:7)
+name: "ClusterClientNoResponseError"
+pid: 15606
+hostname: Tokyos-MacBook-Pro.local
+
+2021-06-25 13:43:51,007 ERROR 15606 nodejs.ClusterClientNoResponseError: client no response in 217096ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:557:17)
+    at processTimers (internal/timers.js:500:7)
+name: "ClusterClientNoResponseError"
+pid: 15606
+hostname: Tokyos-MacBook-Pro.local
+
+2021-06-25 14:20:01,481 ERROR 15606 nodejs.ClusterClientNoResponseError: client no response in 290030ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:557:17)
+    at processTimers (internal/timers.js:500:7)
+name: "ClusterClientNoResponseError"
+pid: 15606
+hostname: Tokyos-MacBook-Pro.local
+
+2021-06-25 15:08:04,402 ERROR 15606 nodejs.ClusterClientNoResponseError: client no response in 1002523ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:557:17)
+    at processTimers (internal/timers.js:500:7)
+name: "ClusterClientNoResponseError"
+pid: 15606
+hostname: Tokyos-MacBook-Pro.local
+
+2021-06-25 16:13:22,388 ERROR 15606 nodejs.ClusterClientNoResponseError: client no response in 1060695ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:557:17)
+    at processTimers (internal/timers.js:500:7)
+name: "ClusterClientNoResponseError"
+pid: 15606
+hostname: Tokyos-MacBook-Pro.local
+
+2021-06-25 16:30:42,090 ERROR 15606 nodejs.ClusterClientNoResponseError: client no response in 1039698ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:557:17)
+    at processTimers (internal/timers.js:500:7)
+name: "ClusterClientNoResponseError"
+pid: 15606
+hostname: Tokyos-MacBook-Pro.local
+
+2021-06-25 16:39:22,783 ERROR 15606 nodejs.ClusterClientNoResponseError: client no response in 520689ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:557:17)
+    at processTimers (internal/timers.js:500:7)
+name: "ClusterClientNoResponseError"
+pid: 15606
+hostname: Tokyos-MacBook-Pro.local
+
+2021-06-25 16:55:40,073 ERROR 15606 nodejs.ClusterClientNoResponseError: client no response in 912140ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:557:17)
+    at processTimers (internal/timers.js:500:7)
+name: "ClusterClientNoResponseError"
+pid: 15606
+hostname: Tokyos-MacBook-Pro.local
+
+2021-06-25 17:12:28,729 ERROR 15606 nodejs.ClusterClientNoResponseError: client no response in 1008651ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:557:17)
+    at processTimers (internal/timers.js:500:7)
+name: "ClusterClientNoResponseError"
+pid: 15606
+hostname: Tokyos-MacBook-Pro.local
+
+2021-06-25 17:29:47,287 ERROR 15606 nodejs.ClusterClientNoResponseError: client no response in 1038554ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:557:17)
+    at processTimers (internal/timers.js:500:7)
+name: "ClusterClientNoResponseError"
+pid: 15606
+hostname: Tokyos-MacBook-Pro.local
+
+2021-06-25 17:46:42,273 ERROR 15606 nodejs.ClusterClientNoResponseError: client no response in 1014980ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:557:17)
+    at processTimers (internal/timers.js:500:7)
+name: "ClusterClientNoResponseError"
+pid: 15606
+hostname: Tokyos-MacBook-Pro.local
+
+2021-06-25 18:21:21,619 ERROR 15606 nodejs.ClusterClientNoResponseError: client no response in 1062668ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:557:17)
+    at processTimers (internal/timers.js:500:7)
+name: "ClusterClientNoResponseError"
+pid: 15606
+hostname: Tokyos-MacBook-Pro.local
+
+2021-06-25 18:37:53,318 ERROR 15606 nodejs.ClusterClientNoResponseError: client no response in 991690ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:557:17)
+    at processTimers (internal/timers.js:500:7)
+name: "ClusterClientNoResponseError"
+pid: 15606
+hostname: Tokyos-MacBook-Pro.local
+
+2021-06-25 19:12:05,136 ERROR 15606 nodejs.ClusterClientNoResponseError: client no response in 1036772ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:557:17)
+    at processTimers (internal/timers.js:500:7)
+name: "ClusterClientNoResponseError"
+pid: 15606
+hostname: Tokyos-MacBook-Pro.local
+
+2021-06-25 20:22:38,386 ERROR 15606 nodejs.ClusterClientNoResponseError: client no response in 1007318ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:557:17)
+    at processTimers (internal/timers.js:500:7)
+name: "ClusterClientNoResponseError"
+pid: 15606
+hostname: Tokyos-MacBook-Pro.local
+
+2021-06-25 20:27:45,866 ERROR 15606 nodejs.ClusterClientNoResponseError: client no response in 307470ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:557:17)
+    at processTimers (internal/timers.js:500:7)
+name: "ClusterClientNoResponseError"
+pid: 15606
+hostname: Tokyos-MacBook-Pro.local
+
+2021-06-25 20:44:32,001 ERROR 15606 nodejs.ClusterClientNoResponseError: client no response in 1006126ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:557:17)
+    at processTimers (internal/timers.js:500:7)
+name: "ClusterClientNoResponseError"
+pid: 15606
+hostname: Tokyos-MacBook-Pro.local
+
+2021-06-25 21:02:05,705 ERROR 15606 nodejs.ClusterClientNoResponseError: client no response in 1053698ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:557:17)
+    at processTimers (internal/timers.js:500:7)
+name: "ClusterClientNoResponseError"
+pid: 15606
+hostname: Tokyos-MacBook-Pro.local
+
+2021-06-25 21:37:32,636 ERROR 15606 nodejs.ClusterClientNoResponseError: client no response in 1053275ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:557:17)
+    at processTimers (internal/timers.js:500:7)
+name: "ClusterClientNoResponseError"
+pid: 15606
+hostname: Tokyos-MacBook-Pro.local
+
+2021-06-25 21:55:16,349 ERROR 15606 nodejs.ClusterClientNoResponseError: client no response in 1063709ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:557:17)
+    at processTimers (internal/timers.js:500:7)
+name: "ClusterClientNoResponseError"
+pid: 15606
+hostname: Tokyos-MacBook-Pro.local
+
+2021-06-25 22:12:07,044 ERROR 15606 nodejs.ClusterClientNoResponseError: client no response in 1010689ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:557:17)
+    at processTimers (internal/timers.js:500:7)
+name: "ClusterClientNoResponseError"
+pid: 15606
+hostname: Tokyos-MacBook-Pro.local
+
+2021-06-25 22:27:24,829 ERROR 15606 nodejs.ClusterClientNoResponseError: client no response in 917781ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:557:17)
+    at processTimers (internal/timers.js:500:7)
+name: "ClusterClientNoResponseError"
+pid: 15606
+hostname: Tokyos-MacBook-Pro.local
+
+2021-06-25 22:45:01,545 ERROR 15606 nodejs.ClusterClientNoResponseError: client no response in 1056712ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:557:17)
+    at processTimers (internal/timers.js:500:7)
+name: "ClusterClientNoResponseError"
+pid: 15606
+hostname: Tokyos-MacBook-Pro.local
+
+2021-06-25 23:16:53,919 ERROR 15606 nodejs.ClusterClientNoResponseError: client no response in 918673ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:557:17)
+    at processTimers (internal/timers.js:500:7)
+name: "ClusterClientNoResponseError"
+pid: 15606
+hostname: Tokyos-MacBook-Pro.local
+
+2021-06-25 23:32:34,558 ERROR 15606 nodejs.ClusterClientNoResponseError: client no response in 940636ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:557:17)
+    at processTimers (internal/timers.js:500:7)
+name: "ClusterClientNoResponseError"
+pid: 15606
+hostname: Tokyos-MacBook-Pro.local
+
+2021-06-26 00:03:49,934 ERROR 15606 nodejs.ClusterClientNoResponseError: client no response in 958672ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:557:17)
+    at processTimers (internal/timers.js:500:7)
+name: "ClusterClientNoResponseError"
+pid: 15606
+hostname: Tokyos-MacBook-Pro.local
+

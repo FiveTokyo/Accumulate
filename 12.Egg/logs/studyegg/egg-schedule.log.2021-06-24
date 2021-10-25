@@ -1,0 +1,180 @@
+2021-06-22 00:32:48,298 INFO 37534 [egg-schedule]: register schedule /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-06-22 00:32:48,298 INFO 37534 [egg-schedule]: register schedule /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-06-22 00:32:48,298 INFO 37534 [egg-schedule]: register schedule /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-06-22 00:32:53,664 INFO 37538 [egg-schedule]: register schedule /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-06-22 00:32:53,664 INFO 37538 [egg-schedule]: register schedule /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-06-22 00:32:53,664 INFO 37538 [egg-schedule]: register schedule /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-06-22 01:28:49,294 INFO 37702 [egg-schedule]: register schedule /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-06-22 01:28:49,294 INFO 37702 [egg-schedule]: register schedule /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-06-22 01:28:49,294 INFO 37702 [egg-schedule]: register schedule /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-06-22 01:29:03,869 INFO 37707 [egg-schedule]: register schedule /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-06-22 01:29:03,869 INFO 37707 [egg-schedule]: register schedule /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-06-22 01:29:03,869 INFO 37707 [egg-schedule]: register schedule /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-06-22 20:57:33,795 INFO 40861 [egg-schedule]: register schedule /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-06-22 20:57:33,795 INFO 40861 [egg-schedule]: register schedule /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-06-22 20:57:33,795 INFO 40861 [egg-schedule]: register schedule /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-06-22 20:57:34,117 INFO 40855 [Timer] /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 27145885ms at 2021-06-23 04:30:00.002
+2021-06-22 20:57:34,117 INFO 40855 [Timer] /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 10945883ms at 2021-06-23 00:00:00.000
+2021-06-22 20:57:34,117 INFO 40855 [Timer] /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 10946883ms at 2021-06-23 00:00:01.000
+2021-06-22 20:58:28,265 INFO 40867 [egg-schedule]: register schedule /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-06-22 20:58:28,265 INFO 40867 [egg-schedule]: register schedule /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-06-22 20:58:28,265 INFO 40867 [egg-schedule]: register schedule /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-06-22 20:59:09,646 INFO 40890 [egg-schedule]: register schedule /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-06-22 20:59:09,646 INFO 40890 [egg-schedule]: register schedule /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-06-22 20:59:09,646 INFO 40890 [egg-schedule]: register schedule /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-06-22 20:59:10,020 INFO 40888 [Timer] /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 27049981ms at 2021-06-23 04:30:00.001
+2021-06-22 20:59:10,021 INFO 40888 [Timer] /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 10849979ms at 2021-06-23 00:00:00.000
+2021-06-22 20:59:10,021 INFO 40888 [Timer] /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 10850979ms at 2021-06-23 00:00:01.000
+2021-06-22 20:59:57,188 INFO 40897 [egg-schedule]: register schedule /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-06-22 20:59:57,189 INFO 40897 [egg-schedule]: register schedule /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-06-22 20:59:57,189 INFO 40897 [egg-schedule]: register schedule /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-06-22 21:00:25,472 INFO 40969 [egg-schedule]: register schedule /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-06-22 21:00:25,472 INFO 40969 [egg-schedule]: register schedule /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-06-22 21:00:25,472 INFO 40969 [egg-schedule]: register schedule /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-06-22 21:00:25,850 INFO 40967 [Timer] /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 26974151ms at 2021-06-23 04:30:00.001
+2021-06-22 21:00:25,851 INFO 40967 [Timer] /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 10774149ms at 2021-06-23 00:00:00.000
+2021-06-22 21:00:25,851 INFO 40967 [Timer] /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 10775149ms at 2021-06-23 00:00:01.000
+2021-06-22 21:00:39,014 INFO 40979 [egg-schedule]: register schedule /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-06-22 21:00:39,014 INFO 40979 [egg-schedule]: register schedule /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-06-22 21:00:39,014 INFO 40979 [egg-schedule]: register schedule /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-06-22 21:05:33,973 INFO 41059 [egg-schedule]: register schedule /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-06-22 21:05:33,973 INFO 41059 [egg-schedule]: register schedule /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-06-22 21:05:33,973 INFO 41059 [egg-schedule]: register schedule /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-06-22 21:05:34,292 INFO 41057 [Timer] /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 26665709ms at 2021-06-23 04:30:00.001
+2021-06-22 21:05:34,292 INFO 41057 [Timer] /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 10465708ms at 2021-06-23 00:00:00.000
+2021-06-22 21:05:34,292 INFO 41057 [Timer] /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 10466708ms at 2021-06-23 00:00:01.000
+2021-06-22 21:08:07,569 INFO 41071 [egg-schedule]: register schedule /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-06-22 21:08:07,569 INFO 41071 [egg-schedule]: register schedule /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-06-22 21:08:07,569 INFO 41071 [egg-schedule]: register schedule /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-06-22 21:09:58,649 INFO 41110 [egg-schedule]: register schedule /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-06-22 21:09:58,649 INFO 41110 [egg-schedule]: register schedule /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-06-22 21:09:58,649 INFO 41110 [egg-schedule]: register schedule /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-06-22 21:10:05,880 INFO 41112 [egg-schedule]: register schedule /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-06-22 21:10:05,880 INFO 41112 [egg-schedule]: register schedule /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-06-22 21:10:05,880 INFO 41112 [egg-schedule]: register schedule /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-06-22 21:11:25,513 INFO 41154 [egg-schedule]: register schedule /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-06-22 21:11:25,513 INFO 41154 [egg-schedule]: register schedule /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-06-22 21:11:25,513 INFO 41154 [egg-schedule]: register schedule /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-06-22 21:13:10,989 INFO 41180 [egg-schedule]: register schedule /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-06-22 21:13:10,989 INFO 41180 [egg-schedule]: register schedule /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-06-22 21:13:10,989 INFO 41180 [egg-schedule]: register schedule /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-06-22 21:14:45,906 INFO 41204 [egg-schedule]: register schedule /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-06-22 21:14:45,906 INFO 41204 [egg-schedule]: register schedule /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-06-22 21:14:45,906 INFO 41204 [egg-schedule]: register schedule /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-06-22 21:15:06,736 INFO 41215 [egg-schedule]: register schedule /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-06-22 21:15:06,736 INFO 41215 [egg-schedule]: register schedule /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-06-22 21:15:06,736 INFO 41215 [egg-schedule]: register schedule /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-06-22 21:15:08,666 INFO 41220 [egg-schedule]: register schedule /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-06-22 21:15:08,666 INFO 41220 [egg-schedule]: register schedule /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-06-22 21:15:08,666 INFO 41220 [egg-schedule]: register schedule /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-06-22 21:15:15,563 INFO 41221 [egg-schedule]: register schedule /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-06-22 21:15:15,563 INFO 41221 [egg-schedule]: register schedule /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-06-22 21:15:15,563 INFO 41221 [egg-schedule]: register schedule /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-06-22 21:15:24,646 INFO 41232 [egg-schedule]: register schedule /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-06-22 21:15:24,646 INFO 41232 [egg-schedule]: register schedule /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-06-22 21:15:24,646 INFO 41232 [egg-schedule]: register schedule /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-06-22 21:15:24,913 INFO 41231 [Timer] /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 26075089ms at 2021-06-23 04:30:00.002
+2021-06-22 21:15:24,913 INFO 41231 [Timer] /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 9875087ms at 2021-06-23 00:00:00.000
+2021-06-22 21:15:24,913 INFO 41231 [Timer] /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 9876087ms at 2021-06-23 00:00:01.000
+2021-06-22 21:16:31,059 INFO 41238 [egg-schedule]: register schedule /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-06-22 21:16:31,059 INFO 41238 [egg-schedule]: register schedule /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-06-22 21:16:31,059 INFO 41238 [egg-schedule]: register schedule /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-06-22 21:19:57,464 INFO 41261 [egg-schedule]: register schedule /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-06-22 21:19:57,464 INFO 41261 [egg-schedule]: register schedule /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-06-22 21:19:57,464 INFO 41261 [egg-schedule]: register schedule /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-06-22 21:20:14,004 INFO 41268 [egg-schedule]: register schedule /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-06-22 21:20:14,004 INFO 41268 [egg-schedule]: register schedule /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-06-22 21:20:14,004 INFO 41268 [egg-schedule]: register schedule /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-06-22 21:20:27,951 INFO 41269 [egg-schedule]: register schedule /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-06-22 21:20:27,951 INFO 41269 [egg-schedule]: register schedule /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-06-22 21:20:27,951 INFO 41269 [egg-schedule]: register schedule /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-06-22 21:23:12,258 INFO 41297 [egg-schedule]: register schedule /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-06-22 21:23:12,258 INFO 41297 [egg-schedule]: register schedule /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-06-22 21:23:12,258 INFO 41297 [egg-schedule]: register schedule /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-06-22 21:24:16,320 INFO 41306 [egg-schedule]: register schedule /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-06-22 21:24:16,320 INFO 41306 [egg-schedule]: register schedule /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-06-22 21:24:16,320 INFO 41306 [egg-schedule]: register schedule /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-06-22 21:24:17,141 INFO 41307 [egg-schedule]: register schedule /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-06-22 21:24:17,141 INFO 41307 [egg-schedule]: register schedule /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-06-22 21:24:17,141 INFO 41307 [egg-schedule]: register schedule /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-06-22 21:28:56,302 INFO 41331 [egg-schedule]: register schedule /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-06-22 21:28:56,302 INFO 41331 [egg-schedule]: register schedule /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-06-22 21:28:56,302 INFO 41331 [egg-schedule]: register schedule /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-06-22 21:29:18,922 INFO 41335 [egg-schedule]: register schedule /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-06-22 21:29:18,922 INFO 41335 [egg-schedule]: register schedule /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-06-22 21:29:18,922 INFO 41335 [egg-schedule]: register schedule /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-06-22 21:31:59,443 INFO 41416 [egg-schedule]: register schedule /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-06-22 21:31:59,443 INFO 41416 [egg-schedule]: register schedule /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-06-22 21:31:59,443 INFO 41416 [egg-schedule]: register schedule /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-06-22 21:31:59,744 INFO 41415 [Timer] /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 25080257ms at 2021-06-23 04:30:00.001
+2021-06-22 21:31:59,744 INFO 41415 [Timer] /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 8880256ms at 2021-06-23 00:00:00.000
+2021-06-22 21:31:59,744 INFO 41415 [Timer] /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 8881256ms at 2021-06-23 00:00:01.000
+2021-06-22 21:40:43,253 INFO 41463 [egg-schedule]: register schedule /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-06-22 21:40:43,253 INFO 41463 [egg-schedule]: register schedule /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-06-22 21:40:43,253 INFO 41463 [egg-schedule]: register schedule /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-06-22 21:40:59,340 INFO 41466 [egg-schedule]: register schedule /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-06-22 21:40:59,340 INFO 41466 [egg-schedule]: register schedule /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-06-22 21:40:59,340 INFO 41466 [egg-schedule]: register schedule /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-06-22 21:42:41,788 INFO 41478 [egg-schedule]: register schedule /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-06-22 21:42:41,788 INFO 41478 [egg-schedule]: register schedule /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-06-22 21:42:41,788 INFO 41478 [egg-schedule]: register schedule /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-06-22 21:56:34,359 INFO 41539 [egg-schedule]: register schedule /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-06-22 21:56:34,359 INFO 41539 [egg-schedule]: register schedule /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-06-22 21:56:34,359 INFO 41539 [egg-schedule]: register schedule /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-06-22 21:57:07,095 INFO 41545 [egg-schedule]: register schedule /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-06-22 21:57:07,095 INFO 41545 [egg-schedule]: register schedule /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-06-22 21:57:07,095 INFO 41545 [egg-schedule]: register schedule /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-06-22 21:59:32,822 INFO 41562 [egg-schedule]: register schedule /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-06-22 21:59:32,822 INFO 41562 [egg-schedule]: register schedule /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-06-22 21:59:32,822 INFO 41562 [egg-schedule]: register schedule /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-06-22 21:59:38,744 INFO 41563 [egg-schedule]: register schedule /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-06-22 21:59:38,744 INFO 41563 [egg-schedule]: register schedule /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-06-22 21:59:38,744 INFO 41563 [egg-schedule]: register schedule /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-06-22 21:59:45,853 INFO 41565 [egg-schedule]: register schedule /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-06-22 21:59:45,853 INFO 41565 [egg-schedule]: register schedule /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-06-22 21:59:45,853 INFO 41565 [egg-schedule]: register schedule /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-06-22 21:59:50,983 INFO 41569 [egg-schedule]: register schedule /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-06-22 21:59:50,983 INFO 41569 [egg-schedule]: register schedule /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-06-22 21:59:50,983 INFO 41569 [egg-schedule]: register schedule /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-06-22 22:00:19,490 INFO 41580 [egg-schedule]: register schedule /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-06-22 22:00:19,490 INFO 41580 [egg-schedule]: register schedule /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-06-22 22:00:19,490 INFO 41580 [egg-schedule]: register schedule /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-06-22 22:01:30,735 INFO 41599 [egg-schedule]: register schedule /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-06-22 22:01:30,735 INFO 41599 [egg-schedule]: register schedule /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-06-22 22:01:30,735 INFO 41599 [egg-schedule]: register schedule /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-06-22 22:01:56,143 INFO 41603 [egg-schedule]: register schedule /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-06-22 22:01:56,143 INFO 41603 [egg-schedule]: register schedule /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-06-22 22:01:56,143 INFO 41603 [egg-schedule]: register schedule /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-06-22 22:02:01,331 INFO 41606 [egg-schedule]: register schedule /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-06-22 22:02:01,331 INFO 41606 [egg-schedule]: register schedule /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-06-22 22:02:01,331 INFO 41606 [egg-schedule]: register schedule /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-06-22 22:12:31,237 INFO 41681 [egg-schedule]: register schedule /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-06-22 22:12:31,237 INFO 41681 [egg-schedule]: register schedule /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-06-22 22:12:31,237 INFO 41681 [egg-schedule]: register schedule /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-06-24 17:36:38,192 INFO 15606 [Timer] /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 39201810ms at 2021-06-25 04:30:00.002
+2021-06-24 17:36:38,192 INFO 15606 [Timer] /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 23001808ms at 2021-06-25 00:00:00.000
+2021-06-24 17:36:38,192 INFO 15606 [Timer] /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 23002808ms at 2021-06-25 00:00:01.000
+2021-06-24 17:36:38,107 INFO 15608 [egg-schedule]: register schedule /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-06-24 17:36:38,107 INFO 15608 [egg-schedule]: register schedule /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-06-24 17:36:38,107 INFO 15608 [egg-schedule]: register schedule /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-06-24 17:41:36,563 INFO 15781 [egg-schedule]: register schedule /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-06-24 17:41:36,563 INFO 15781 [egg-schedule]: register schedule /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-06-24 17:41:36,563 INFO 15781 [egg-schedule]: register schedule /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-06-24 17:41:57,642 INFO 15795 [egg-schedule]: register schedule /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-06-24 17:41:57,642 INFO 15795 [egg-schedule]: register schedule /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-06-24 17:41:57,642 INFO 15795 [egg-schedule]: register schedule /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-06-24 17:42:12,409 INFO 15802 [egg-schedule]: register schedule /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-06-24 17:42:12,409 INFO 15802 [egg-schedule]: register schedule /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-06-24 17:42:12,409 INFO 15802 [egg-schedule]: register schedule /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-06-24 20:07:38,665 INFO 19282 [egg-schedule]: register schedule /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-06-24 20:07:38,665 INFO 19282 [egg-schedule]: register schedule /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-06-24 20:07:38,665 INFO 19282 [egg-schedule]: register schedule /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-06-24 20:07:45,759 INFO 19288 [egg-schedule]: register schedule /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-06-24 20:07:45,759 INFO 19288 [egg-schedule]: register schedule /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-06-24 20:07:45,759 INFO 19288 [egg-schedule]: register schedule /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-06-25 00:03:23,857 INFO 19288 [Job#1624550603847484349967854161] /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-logrotator/app/schedule/clean_log.js executing by app
+2021-06-25 00:03:23,861 INFO 19288 [Job#16245506038574843571159161] /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js executing by app
+2021-06-25 00:03:23,880 INFO 19288 [Job#1624550603847484349967854161] /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-logrotator/app/schedule/clean_log.js execute succeed, used 21ms. 
+2021-06-25 00:03:23,882 INFO 19288 [Job#16245506038574843571159161] /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js execute succeed, used 21ms. 
+2021-06-25 00:03:23,856 INFO 15606 [Timer] /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 86196152ms at 2021-06-26 00:00:00.008
+2021-06-25 00:03:23,861 INFO 15606 [Timer] /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 86197143ms at 2021-06-26 00:00:01.004

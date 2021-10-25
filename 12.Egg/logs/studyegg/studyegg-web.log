@@ -1,0 +1,110 @@
+2021-10-04 08:32:58,389 ERROR 91387 [-/127.0.0.1/-/18ms POST /user/create] test.createUser调用异常/user.createUser TypeError: Cannot read property 'User' of undefined
+    at TestService.createUser (/Users/tokyo/Desktop/Study_Demo/Study_Egg/app/service/user.js:17:43)
+    at HomeController.createUser (/Users/tokyo/Desktop/Study_Demo/Study_Egg/app/controller/user.js:18:45)
+    at Object.callFn (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/node_modules/koa-compose/index.js:45:18)
+    at /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/lib/router.js:190:18
+    at dispatch (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/node_modules/koa-compose/index.js:44:32)
+2021-10-04 08:34:46,677 ERROR 91459 [-/127.0.0.1/-/22ms POST /user/create] test.createUser调用异常/user.createUser TypeError: Cannot read property 'createUser' of undefined
+    at HomeController.createUser (/Users/tokyo/Desktop/Study_Demo/Study_Egg/app/controller/user.js:18:45)
+    at Object.callFn (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/node_modules/koa-compose/index.js:45:18)
+    at /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/lib/router.js:190:18
+    at dispatch (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/node_modules/koa-compose/index.js:44:32)
+    at /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/node_modules/koa-compose/index.js:36:12
+2021-10-04 08:35:28,672 ERROR 91531 [-/127.0.0.1/-/16ms POST /user/create] test.createUser调用异常/user.createUser TypeError: Cannot read property 'createUser' of undefined
+    at HomeController.createUser (/Users/tokyo/Desktop/Study_Demo/Study_Egg/app/controller/user.js:18:45)
+    at Object.callFn (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/node_modules/koa-compose/index.js:45:18)
+    at /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/lib/router.js:190:18
+    at dispatch (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/node_modules/koa-compose/index.js:44:32)
+    at /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/node_modules/koa-compose/index.js:36:12
+2021-10-04 08:36:35,370 ERROR 91583 [-/127.0.0.1/-/42ms POST /user/create] test.createUser调用异常/user.createUser TypeError: Cannot read property 'Users' of undefined
+    at TestService.createUser (/Users/tokyo/Desktop/Study_Demo/Study_Egg/app/service/users.js:17:43)
+    at HomeController.createUser (/Users/tokyo/Desktop/Study_Demo/Study_Egg/app/controller/user.js:18:46)
+    at Object.callFn (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/node_modules/koa-compose/index.js:45:18)
+    at /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/lib/router.js:190:18
+    at dispatch (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/node_modules/koa-compose/index.js:44:32)
+2021-10-04 08:38:20,103 ERROR 91662 [-/127.0.0.1/-/13ms POST /user/create] user.createUser调用异常/user.createUser TypeError: Cannot read property 'Users' of undefined
+    at Users.createUser (/Users/tokyo/Desktop/Study_Demo/Study_Egg/app/service/users.js:17:43)
+    at HomeController.createUser (/Users/tokyo/Desktop/Study_Demo/Study_Egg/app/controller/user.js:18:46)
+    at Object.callFn (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/node_modules/koa-compose/index.js:45:18)
+    at /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/lib/router.js:190:18
+    at dispatch (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/node_modules/koa-compose/index.js:44:32)
+2021-10-04 08:39:38,378 ERROR 91741 [-/127.0.0.1/-/16ms POST /user/create] user.createUser调用异常/user.createUser ReferenceError: Cannot access 'entity' before initialization
+    at HomeController.createUser (/Users/tokyo/Desktop/Study_Demo/Study_Egg/app/controller/user.js:18:29)
+    at Object.callFn (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/node_modules/koa-compose/index.js:45:18)
+    at /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/lib/router.js:190:18
+    at dispatch (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/node_modules/koa-compose/index.js:44:32)
+    at /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/node_modules/koa-compose/index.js:36:12
+2021-10-04 08:39:53,998 ERROR 91741 [-/127.0.0.1/-/1ms POST /user/create] user.createUser调用异常/user.createUser ReferenceError: Cannot access 'entity' before initialization
+    at HomeController.createUser (/Users/tokyo/Desktop/Study_Demo/Study_Egg/app/controller/user.js:18:29)
+    at Object.callFn (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/node_modules/koa-compose/index.js:45:18)
+    at /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/lib/router.js:190:18
+    at dispatch (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/node_modules/koa-compose/index.js:44:32)
+    at /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/node_modules/koa-compose/index.js:36:12
+2021-10-04 08:40:16,352 ERROR 91770 [-/127.0.0.1/-/20ms POST /user/create] user.createUser调用异常/user.createUser TypeError: Cannot read property 'Users' of undefined
+    at Users.createUser (/Users/tokyo/Desktop/Study_Demo/Study_Egg/app/service/users.js:18:43)
+    at HomeController.createUser (/Users/tokyo/Desktop/Study_Demo/Study_Egg/app/controller/user.js:18:46)
+    at Object.callFn (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/node_modules/koa-compose/index.js:45:18)
+    at /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/lib/router.js:190:18
+    at dispatch (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/node_modules/koa-compose/index.js:44:32)
+2021-10-04 08:40:59,976 ERROR 91798 [-/127.0.0.1/-/30ms POST /user/create] user.createUser调用异常/user.createUser TypeError: Cannot read property 'Users' of undefined
+    at Users.createUser (/Users/tokyo/Desktop/Study_Demo/Study_Egg/app/service/users.js:19:43)
+    at HomeController.createUser (/Users/tokyo/Desktop/Study_Demo/Study_Egg/app/controller/user.js:18:46)
+    at Object.callFn (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/node_modules/koa-compose/index.js:45:18)
+    at /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/lib/router.js:190:18
+    at dispatch (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/node_modules/koa-compose/index.js:44:32)
+2021-10-04 09:07:39,422 ERROR 93154 [-/127.0.0.1/-/18ms POST /user/create] user.createUser调用异常/user.createUser TypeError: Cannot read property 'Users' of undefined
+    at Users.createUser (/Users/tokyo/Desktop/Study_Demo/Study_Egg/app/service/users.js:19:43)
+    at HomeController.createUser (/Users/tokyo/Desktop/Study_Demo/Study_Egg/app/controller/user.js:18:46)
+    at Object.callFn (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/node_modules/koa-compose/index.js:45:18)
+    at /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/lib/router.js:190:18
+    at dispatch (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/node_modules/koa-compose/index.js:44:32)

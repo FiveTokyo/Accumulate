@@ -1,0 +1,110 @@
+2021-06-21 20:20:28,611 ERROR 32097 [-/127.0.0.1/-/0ms GET /] nodejs.PROTOCOL_SEQUENCE_TIMEOUTError: Handshake inactivity timeout
+    at Handshake.<anonymous> (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/mysql/lib/protocol/Protocol.js:160:17)
+    at Handshake.emit (events.js:375:28)
+    at Handshake._onTimeout (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/mysql/lib/protocol/sequences/Sequence.js:124:8)
+    at Timer._onTimeout (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/mysql/lib/protocol/Timer.js:32:23)
+    at listOnTimeout (internal/timers.js:557:17)
+    at processTimers (internal/timers.js:500:7)
+    --------------------
+    at Protocol._enqueue (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at Protocol.handshake (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/mysql/lib/protocol/Protocol.js:51:23)
+    at PoolConnection.connect (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/mysql/lib/Connection.js:116:18)
+    at Pool.getConnection (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/mysql/lib/Pool.js:48:16)
+    at /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/ali-rds/node_modules/pify/index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/ali-rds/node_modules/pify/index.js:12:10)
+    at Pool.ret [as getConnection] (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/ali-rds/node_modules/pify/index.js:56:34)
+    at Pool.query (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/mysql/lib/Pool.js:202:8)
+    at /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/ali-rds/node_modules/pify/index.js:29:7
+    sql: select now() as currentTime;
+code: "PROTOCOL_SEQUENCE_TIMEOUT"
+fatal: true
+timeout: 10000
+name: "PROTOCOL_SEQUENCE_TIMEOUTError"
+pid: 32097
+hostname: Tokyos-MBP
+
+2021-06-21 20:20:39,217 ERROR 32104 [-/127.0.0.1/-/1ms GET /] nodejs.PROTOCOL_SEQUENCE_TIMEOUTError: Handshake inactivity timeout
+    at Handshake.<anonymous> (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/mysql/lib/protocol/Protocol.js:160:17)
+    at Handshake.emit (events.js:375:28)
+    at Handshake._onTimeout (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/mysql/lib/protocol/sequences/Sequence.js:124:8)
+    at Timer._onTimeout (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/mysql/lib/protocol/Timer.js:32:23)
+    at listOnTimeout (internal/timers.js:557:17)
+    at processTimers (internal/timers.js:500:7)
+    --------------------
+    at Protocol._enqueue (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at Protocol.handshake (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/mysql/lib/protocol/Protocol.js:51:23)
+    at PoolConnection.connect (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/mysql/lib/Connection.js:116:18)
+    at Pool.getConnection (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/mysql/lib/Pool.js:48:16)
+    at /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/ali-rds/node_modules/pify/index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/ali-rds/node_modules/pify/index.js:12:10)
+    at Pool.ret [as getConnection] (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/ali-rds/node_modules/pify/index.js:56:34)
+    at Pool.query (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/mysql/lib/Pool.js:202:8)
+    at /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/ali-rds/node_modules/pify/index.js:29:7
+    sql: select now() as currentTime;
+code: "PROTOCOL_SEQUENCE_TIMEOUT"
+fatal: true
+timeout: 10000
+name: "PROTOCOL_SEQUENCE_TIMEOUTError"
+pid: 32104
+hostname: Tokyos-MBP
+
+2021-06-21 21:54:16,026 ERROR 33933 nodejs.SequelizeAccessDeniedError: Access denied for user 'root'@'117.136.79.159' (using password: YES)
+    at ConnectionManager.connect (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/sequelize/lib/dialects/mysql/connection-manager.js:118:17)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+    at async ConnectionManager._connect (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/sequelize/lib/dialects/abstract/connection-manager.js:318:24)
+    at async /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/sequelize/lib/dialects/abstract/connection-manager.js:250:32
+    at async ConnectionManager.getConnection (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/sequelize/lib/dialects/abstract/connection-manager.js:280:7)
+    at async /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/sequelize/lib/sequelize.js:613:26
+    at async Sequelize.authenticate (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/sequelize/lib/sequelize.js:867:5)
+    at async authenticate (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-sequelize/lib/loader.js:134:7)
+    at async authenticate (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-sequelize/lib/loader.js:142:7)
+    at async authenticate (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-sequelize/lib/loader.js:142:7)
+name: "SequelizeAccessDeniedError"
+parent: {"code":"ER_ACCESS_DENIED_ERROR","errno":1045,"sqlState":"28000","sqlMessage":"Access denied for user 'root'@'117.136.79.159' (using password: YES)"}
+original: {"code":"ER_ACCESS_DENIED_ERROR","errno":1045,"sqlState":"28000","sqlMessage":"Access denied for user 'root'@'117.136.79.159' (using password: YES)"}
+pid: 33933
+hostname: Tokyos-MBP
+
+2021-06-21 21:58:14,581 ERROR 33969 nodejs.SequelizeAccessDeniedError: Access denied for user 'root'@'117.136.79.159' (using password: YES)
+    at ConnectionManager.connect (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/sequelize/lib/dialects/mysql/connection-manager.js:118:17)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+    at async ConnectionManager._connect (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/sequelize/lib/dialects/abstract/connection-manager.js:318:24)
+    at async /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/sequelize/lib/dialects/abstract/connection-manager.js:250:32
+    at async ConnectionManager.getConnection (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/sequelize/lib/dialects/abstract/connection-manager.js:280:7)
+    at async /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/sequelize/lib/sequelize.js:613:26
+    at async Sequelize.authenticate (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/sequelize/lib/sequelize.js:867:5)
+    at async authenticate (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-sequelize/lib/loader.js:134:7)
+    at async authenticate (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-sequelize/lib/loader.js:142:7)
+    at async authenticate (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-sequelize/lib/loader.js:142:7)
+name: "SequelizeAccessDeniedError"
+parent: {"code":"ER_ACCESS_DENIED_ERROR","errno":1045,"sqlState":"28000","sqlMessage":"Access denied for user 'root'@'117.136.79.159' (using password: YES)"}
+original: {"code":"ER_ACCESS_DENIED_ERROR","errno":1045,"sqlState":"28000","sqlMessage":"Access denied for user 'root'@'117.136.79.159' (using password: YES)"}
+pid: 33969
+hostname: Tokyos-MBP
+
+2021-06-21 22:26:07,843 ERROR 33999 nodejs.ClusterClientNoResponseError: client no response in 947084ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:557:17)
+    at processTimers (internal/timers.js:500:7)
+name: "ClusterClientNoResponseError"
+pid: 33999
+hostname: Tokyos-MBP
+
+2021-06-21 22:41:14,529 ERROR 33999 nodejs.ClusterClientNoResponseError: client no response in 906679ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:557:17)
+    at processTimers (internal/timers.js:500:7)
+name: "ClusterClientNoResponseError"
+pid: 33999
+hostname: Tokyos-MBP
+
+2021-06-21 22:43:28,071 ERROR 33999 nodejs.ClusterClientNoResponseError: client no response in 133537ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:557:17)
+    at processTimers (internal/timers.js:500:7)
+name: "ClusterClientNoResponseError"
+pid: 33999
+hostname: Tokyos-MBP
+

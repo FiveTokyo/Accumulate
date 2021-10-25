@@ -1,0 +1,336 @@
+2021-06-26 00:03:49,948 INFO 19288 [egg-logrotator] app logger reload: got log-reload message
+2021-06-26 00:19:48,703 WARN 19288 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2021-06-26 00:19:48,704 WARN 19288 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-06-26 00:35:53,361 WARN 19288 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2021-06-26 00:35:53,362 WARN 19288 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-06-26 00:51:07,019 WARN 19288 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2021-06-26 00:51:07,019 WARN 19288 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-06-26 01:21:59,317 WARN 19288 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-06-26 01:38:03,964 WARN 19288 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2021-06-26 01:38:03,965 WARN 19288 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-06-26 02:11:16,511 WARN 19288 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2021-06-26 02:11:16,511 WARN 19288 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-06-26 02:44:54,856 WARN 19288 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-06-26 03:17:12,995 WARN 19288 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2021-06-26 03:17:12,995 WARN 19288 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-06-26 03:50:27,382 WARN 19288 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2021-06-26 03:50:27,382 WARN 19288 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-06-26 04:06:54,089 WARN 19288 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2021-06-26 04:06:54,089 WARN 19288 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-06-26 04:40:00,318 WARN 19288 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2021-06-26 04:40:00,319 WARN 19288 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-06-26 04:40:00,440 INFO 19288 [-/127.0.0.1/-/0ms SCHEDULE /__schedule?path=/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js&type=worker&cron=0%2030%204%20*%20*%20*&disable=false&immediate=false] [egg-multipart:CleanTmpdir] start clean tmpdir: "/var/folders/yw/4rhf62xj21b7mz_m7p0xzjz80000gn/T/egg-multipart-tmp/studyegg"
+2021-06-26 04:40:00,446 INFO 19288 [-/127.0.0.1/-/6ms SCHEDULE /__schedule?path=/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js&type=worker&cron=0%2030%204%20*%20*%20*&disable=false&immediate=false] [egg-multipart:CleanTmpdir] end
+2021-06-26 05:11:35,649 WARN 19288 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2021-06-26 05:11:35,649 WARN 19288 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-06-26 05:45:29,987 WARN 19288 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-06-26 06:01:29,552 WARN 19288 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2021-06-26 06:01:29,552 WARN 19288 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-06-26 06:51:12,546 WARN 19288 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-06-26 07:08:29,163 WARN 19288 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-06-26 07:24:55,881 WARN 19288 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-06-26 07:42:22,424 WARN 19288 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-06-26 07:57:38,011 WARN 19288 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2021-06-26 07:57:38,011 WARN 19288 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-06-26 08:30:49,409 WARN 19288 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2021-06-26 08:30:49,409 WARN 19288 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-06-26 09:03:24,197 WARN 19288 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-06-26 09:21:02,930 WARN 19288 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2021-06-26 09:21:02,930 WARN 19288 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-06-26 09:38:37,616 WARN 19288 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-06-26 09:55:45,288 WARN 19288 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2021-06-26 09:55:45,288 WARN 19288 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-06-26 10:26:35,801 WARN 19288 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2021-06-26 10:26:35,801 WARN 19288 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-06-26 10:43:41,393 WARN 19288 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2021-06-26 10:43:41,394 WARN 19288 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-06-26 12:07:01,801 WARN 19288 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2021-06-26 12:07:01,802 WARN 19288 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-06-26 12:40:01,173 WARN 19288 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2021-06-26 12:40:01,174 WARN 19288 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-06-26 13:14:52,568 WARN 19288 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2021-06-26 13:14:52,568 WARN 19288 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-06-26 13:48:44,930 WARN 19288 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-06-26 14:05:35,576 WARN 19288 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2021-06-26 14:05:35,577 WARN 19288 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-06-26 14:22:35,277 WARN 19288 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2021-06-26 14:22:35,277 WARN 19288 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-06-26 14:38:35,974 WARN 19288 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2021-06-26 14:38:35,975 WARN 19288 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-06-26 14:54:52,635 WARN 19288 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2021-06-26 14:54:52,636 WARN 19288 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-06-26 15:11:25,466 WARN 19288 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2021-06-26 15:11:25,466 WARN 19288 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-10-04 08:31:08,018 INFO 91234 [egg:logger] init all loggers with options: {"dir":"/Users/tokyo/Desktop/Study_Demo/Study_Egg/logs/studyegg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"studyegg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-10-04 08:31:08,038 INFO 91234 [egg-multipart] stream mode enable
+2021-10-04 08:31:08,097 INFO 91234 [egg-static] starting static serve /public/ -> /Users/tokyo/Desktop/Study_Demo/Study_Egg/app/public
+2021-10-04 08:31:08,102 INFO 91234 [egg-security] use methodnoallow middleware
+2021-10-04 08:31:08,102 INFO 91234 [egg-security] use noopen middleware
+2021-10-04 08:31:08,102 INFO 91234 [egg-security] use nosniff middleware
+2021-10-04 08:31:08,103 INFO 91234 [egg-security] use xssProtection middleware
+2021-10-04 08:31:08,103 INFO 91234 [egg-security] use xframe middleware
+2021-10-04 08:31:08,103 INFO 91234 [egg-security] use dta middleware
+2021-10-04 08:31:08,103 INFO 91234 [egg-security] compose 6 middlewares into one security middleware
+2021-10-04 08:31:08,114 INFO 91234 [egg:core] dump config after load, 5ms
+2021-10-04 08:31:08,122 INFO 91234 [egg-watcher:application] watcher start success
+2021-10-04 08:31:08,127 INFO 91234 [egg:core] dump config after ready, 3ms
+2021-10-04 08:31:23,378 INFO 91273 [egg:logger] init all loggers with options: {"dir":"/Users/tokyo/Desktop/Study_Demo/Study_Egg/logs/studyegg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"studyegg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-10-04 08:31:23,398 INFO 91273 [egg-multipart] stream mode enable
+2021-10-04 08:31:23,446 INFO 91273 [egg-static] starting static serve /public/ -> /Users/tokyo/Desktop/Study_Demo/Study_Egg/app/public
+2021-10-04 08:31:23,449 INFO 91273 [egg-security] use methodnoallow middleware
+2021-10-04 08:31:23,449 INFO 91273 [egg-security] use noopen middleware
+2021-10-04 08:31:23,449 INFO 91273 [egg-security] use nosniff middleware
+2021-10-04 08:31:23,449 INFO 91273 [egg-security] use xssProtection middleware
+2021-10-04 08:31:23,449 INFO 91273 [egg-security] use xframe middleware
+2021-10-04 08:31:23,449 INFO 91273 [egg-security] use dta middleware
+2021-10-04 08:31:23,449 INFO 91273 [egg-security] compose 6 middlewares into one security middleware
+2021-10-04 08:31:23,457 INFO 91273 [egg:core] dump config after load, 5ms
+2021-10-04 08:31:23,466 INFO 91273 [egg-watcher:application] watcher start success
+2021-10-04 08:31:23,470 INFO 91273 [egg:core] dump config after ready, 3ms
+2021-10-04 08:32:51,695 INFO 91387 [egg:logger] init all loggers with options: {"dir":"/Users/tokyo/Desktop/Study_Demo/Study_Egg/logs/studyegg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"studyegg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-10-04 08:32:51,715 INFO 91387 [egg-multipart] stream mode enable
+2021-10-04 08:32:51,772 INFO 91387 [egg-static] starting static serve /public/ -> /Users/tokyo/Desktop/Study_Demo/Study_Egg/app/public
+2021-10-04 08:32:51,775 INFO 91387 [egg-security] use methodnoallow middleware
+2021-10-04 08:32:51,775 INFO 91387 [egg-security] use noopen middleware
+2021-10-04 08:32:51,775 INFO 91387 [egg-security] use nosniff middleware
+2021-10-04 08:32:51,776 INFO 91387 [egg-security] use xssProtection middleware
+2021-10-04 08:32:51,776 INFO 91387 [egg-security] use xframe middleware
+2021-10-04 08:32:51,776 INFO 91387 [egg-security] use dta middleware
+2021-10-04 08:32:51,776 INFO 91387 [egg-security] compose 6 middlewares into one security middleware
+2021-10-04 08:32:51,784 INFO 91387 [egg:core] dump config after load, 5ms
+2021-10-04 08:32:51,793 INFO 91387 [egg-watcher:application] watcher start success
+2021-10-04 08:32:51,797 INFO 91387 [egg:core] dump config after ready, 3ms
+2021-10-04 08:34:36,734 INFO 91457 [egg:logger] init all loggers with options: {"dir":"/Users/tokyo/Desktop/Study_Demo/Study_Egg/logs/studyegg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"studyegg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-10-04 08:34:36,769 INFO 91457 [egg-multipart] stream mode enable
+2021-10-04 08:34:36,851 INFO 91457 [egg-static] starting static serve /public/ -> /Users/tokyo/Desktop/Study_Demo/Study_Egg/app/public
+2021-10-04 08:34:36,856 INFO 91457 [egg-security] use methodnoallow middleware
+2021-10-04 08:34:36,856 INFO 91457 [egg-security] use noopen middleware
+2021-10-04 08:34:36,857 INFO 91457 [egg-security] use nosniff middleware
+2021-10-04 08:34:36,857 INFO 91457 [egg-security] use xssProtection middleware
+2021-10-04 08:34:36,857 INFO 91457 [egg-security] use xframe middleware
+2021-10-04 08:34:36,857 INFO 91457 [egg-security] use dta middleware
+2021-10-04 08:34:36,857 INFO 91457 [egg-security] compose 6 middlewares into one security middleware
+2021-10-04 08:34:36,866 INFO 91457 [egg:core] dump config after load, 4ms
+2021-10-04 08:34:36,875 INFO 91457 [egg-watcher:application] watcher start success
+2021-10-04 08:34:36,880 INFO 91457 [egg:core] dump config after ready, 3ms
+2021-10-04 08:34:37,491 INFO 91459 [egg:logger] init all loggers with options: {"dir":"/Users/tokyo/Desktop/Study_Demo/Study_Egg/logs/studyegg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"studyegg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-10-04 08:34:37,514 INFO 91459 [egg-multipart] stream mode enable
+2021-10-04 08:34:37,571 INFO 91459 [egg-static] starting static serve /public/ -> /Users/tokyo/Desktop/Study_Demo/Study_Egg/app/public
+2021-10-04 08:34:37,574 INFO 91459 [egg-security] use methodnoallow middleware
+2021-10-04 08:34:37,574 INFO 91459 [egg-security] use noopen middleware
+2021-10-04 08:34:37,574 INFO 91459 [egg-security] use nosniff middleware
+2021-10-04 08:34:37,574 INFO 91459 [egg-security] use xssProtection middleware
+2021-10-04 08:34:37,575 INFO 91459 [egg-security] use xframe middleware
+2021-10-04 08:34:37,575 INFO 91459 [egg-security] use dta middleware
+2021-10-04 08:34:37,575 INFO 91459 [egg-security] compose 6 middlewares into one security middleware
+2021-10-04 08:34:37,583 INFO 91459 [egg:core] dump config after load, 4ms
+2021-10-04 08:34:37,591 INFO 91459 [egg-watcher:application] watcher start success
+2021-10-04 08:34:37,596 INFO 91459 [egg:core] dump config after ready, 3ms
+2021-10-04 08:35:22,767 INFO 91531 [egg:logger] init all loggers with options: {"dir":"/Users/tokyo/Desktop/Study_Demo/Study_Egg/logs/studyegg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"studyegg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-10-04 08:35:22,788 INFO 91531 [egg-multipart] stream mode enable
+2021-10-04 08:35:22,849 INFO 91531 [egg-static] starting static serve /public/ -> /Users/tokyo/Desktop/Study_Demo/Study_Egg/app/public
+2021-10-04 08:35:22,853 INFO 91531 [egg-security] use methodnoallow middleware
+2021-10-04 08:35:22,853 INFO 91531 [egg-security] use noopen middleware
+2021-10-04 08:35:22,853 INFO 91531 [egg-security] use nosniff middleware
+2021-10-04 08:35:22,853 INFO 91531 [egg-security] use xssProtection middleware
+2021-10-04 08:35:22,854 INFO 91531 [egg-security] use xframe middleware
+2021-10-04 08:35:22,854 INFO 91531 [egg-security] use dta middleware
+2021-10-04 08:35:22,854 INFO 91531 [egg-security] compose 6 middlewares into one security middleware
+2021-10-04 08:35:22,863 INFO 91531 [egg:core] dump config after load, 5ms
+2021-10-04 08:35:22,873 INFO 91531 [egg-watcher:application] watcher start success
+2021-10-04 08:35:22,879 INFO 91531 [egg:core] dump config after ready, 5ms
+2021-10-04 08:36:22,623 INFO 91567 [egg:logger] init all loggers with options: {"dir":"/Users/tokyo/Desktop/Study_Demo/Study_Egg/logs/studyegg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"studyegg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-10-04 08:36:22,644 INFO 91567 [egg-multipart] stream mode enable
+2021-10-04 08:36:22,702 INFO 91567 [egg-static] starting static serve /public/ -> /Users/tokyo/Desktop/Study_Demo/Study_Egg/app/public
+2021-10-04 08:36:22,705 INFO 91567 [egg-security] use methodnoallow middleware
+2021-10-04 08:36:22,705 INFO 91567 [egg-security] use noopen middleware
+2021-10-04 08:36:22,705 INFO 91567 [egg-security] use nosniff middleware
+2021-10-04 08:36:22,705 INFO 91567 [egg-security] use xssProtection middleware
+2021-10-04 08:36:22,706 INFO 91567 [egg-security] use xframe middleware
+2021-10-04 08:36:22,706 INFO 91567 [egg-security] use dta middleware
+2021-10-04 08:36:22,706 INFO 91567 [egg-security] compose 6 middlewares into one security middleware
+2021-10-04 08:36:22,715 INFO 91567 [egg:core] dump config after load, 6ms
+2021-10-04 08:36:22,722 INFO 91567 [egg-watcher:application] watcher start success
+2021-10-04 08:36:22,727 INFO 91567 [egg:core] dump config after ready, 3ms
+2021-10-04 08:36:29,611 INFO 91583 [egg:logger] init all loggers with options: {"dir":"/Users/tokyo/Desktop/Study_Demo/Study_Egg/logs/studyegg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"studyegg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-10-04 08:36:29,632 INFO 91583 [egg-multipart] stream mode enable
+2021-10-04 08:36:29,690 INFO 91583 [egg-static] starting static serve /public/ -> /Users/tokyo/Desktop/Study_Demo/Study_Egg/app/public
+2021-10-04 08:36:29,693 INFO 91583 [egg-security] use methodnoallow middleware
+2021-10-04 08:36:29,693 INFO 91583 [egg-security] use noopen middleware
+2021-10-04 08:36:29,693 INFO 91583 [egg-security] use nosniff middleware
+2021-10-04 08:36:29,693 INFO 91583 [egg-security] use xssProtection middleware
+2021-10-04 08:36:29,693 INFO 91583 [egg-security] use xframe middleware
+2021-10-04 08:36:29,694 INFO 91583 [egg-security] use dta middleware
+2021-10-04 08:36:29,694 INFO 91583 [egg-security] compose 6 middlewares into one security middleware
+2021-10-04 08:36:29,701 INFO 91583 [egg:core] dump config after load, 4ms
+2021-10-04 08:36:29,709 INFO 91583 [egg-watcher:application] watcher start success
+2021-10-04 08:36:29,714 INFO 91583 [egg:core] dump config after ready, 3ms
+2021-10-04 08:37:45,503 INFO 91631 [egg:logger] init all loggers with options: {"dir":"/Users/tokyo/Desktop/Study_Demo/Study_Egg/logs/studyegg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"studyegg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-10-04 08:37:45,530 INFO 91631 [egg-multipart] stream mode enable
+2021-10-04 08:37:45,592 INFO 91631 [egg-static] starting static serve /public/ -> /Users/tokyo/Desktop/Study_Demo/Study_Egg/app/public
+2021-10-04 08:37:45,595 INFO 91631 [egg-security] use methodnoallow middleware
+2021-10-04 08:37:45,595 INFO 91631 [egg-security] use noopen middleware
+2021-10-04 08:37:45,595 INFO 91631 [egg-security] use nosniff middleware
+2021-10-04 08:37:45,595 INFO 91631 [egg-security] use xssProtection middleware
+2021-10-04 08:37:45,596 INFO 91631 [egg-security] use xframe middleware
+2021-10-04 08:37:45,596 INFO 91631 [egg-security] use dta middleware
+2021-10-04 08:37:45,596 INFO 91631 [egg-security] compose 6 middlewares into one security middleware
+2021-10-04 08:37:45,605 INFO 91631 [egg:core] dump config after load, 6ms
+2021-10-04 08:37:45,612 INFO 91631 [egg-watcher:application] watcher start success
+2021-10-04 08:37:45,616 INFO 91631 [egg:core] dump config after ready, 3ms
+2021-10-04 08:37:47,093 INFO 91641 [egg:logger] init all loggers with options: {"dir":"/Users/tokyo/Desktop/Study_Demo/Study_Egg/logs/studyegg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"studyegg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-10-04 08:37:47,113 INFO 91641 [egg-multipart] stream mode enable
+2021-10-04 08:37:47,161 INFO 91641 [egg-static] starting static serve /public/ -> /Users/tokyo/Desktop/Study_Demo/Study_Egg/app/public
+2021-10-04 08:37:47,164 INFO 91641 [egg-security] use methodnoallow middleware
+2021-10-04 08:37:47,164 INFO 91641 [egg-security] use noopen middleware
+2021-10-04 08:37:47,164 INFO 91641 [egg-security] use nosniff middleware
+2021-10-04 08:37:47,164 INFO 91641 [egg-security] use xssProtection middleware
+2021-10-04 08:37:47,164 INFO 91641 [egg-security] use xframe middleware
+2021-10-04 08:37:47,164 INFO 91641 [egg-security] use dta middleware
+2021-10-04 08:37:47,164 INFO 91641 [egg-security] compose 6 middlewares into one security middleware
+2021-10-04 08:37:47,172 INFO 91641 [egg:core] dump config after load, 4ms
+2021-10-04 08:37:47,180 INFO 91641 [egg-watcher:application] watcher start success
+2021-10-04 08:37:47,184 INFO 91641 [egg:core] dump config after ready, 3ms
+2021-10-04 08:37:53,299 INFO 91649 [egg:logger] init all loggers with options: {"dir":"/Users/tokyo/Desktop/Study_Demo/Study_Egg/logs/studyegg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"studyegg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-10-04 08:37:53,320 INFO 91649 [egg-multipart] stream mode enable
+2021-10-04 08:37:53,372 INFO 91649 [egg-static] starting static serve /public/ -> /Users/tokyo/Desktop/Study_Demo/Study_Egg/app/public
+2021-10-04 08:37:53,375 INFO 91649 [egg-security] use methodnoallow middleware
+2021-10-04 08:37:53,375 INFO 91649 [egg-security] use noopen middleware
+2021-10-04 08:37:53,375 INFO 91649 [egg-security] use nosniff middleware
+2021-10-04 08:37:53,376 INFO 91649 [egg-security] use xssProtection middleware
+2021-10-04 08:37:53,376 INFO 91649 [egg-security] use xframe middleware
+2021-10-04 08:37:53,376 INFO 91649 [egg-security] use dta middleware
+2021-10-04 08:37:53,376 INFO 91649 [egg-security] compose 6 middlewares into one security middleware
+2021-10-04 08:37:53,385 INFO 91649 [egg:core] dump config after load, 5ms
+2021-10-04 08:37:53,392 INFO 91649 [egg-watcher:application] watcher start success
+2021-10-04 08:37:53,396 INFO 91649 [egg:core] dump config after ready, 3ms
+2021-10-04 08:38:12,625 INFO 91662 [egg:logger] init all loggers with options: {"dir":"/Users/tokyo/Desktop/Study_Demo/Study_Egg/logs/studyegg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"studyegg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-10-04 08:38:12,646 INFO 91662 [egg-multipart] stream mode enable
+2021-10-04 08:38:12,707 INFO 91662 [egg-static] starting static serve /public/ -> /Users/tokyo/Desktop/Study_Demo/Study_Egg/app/public
+2021-10-04 08:38:12,709 INFO 91662 [egg-security] use methodnoallow middleware
+2021-10-04 08:38:12,710 INFO 91662 [egg-security] use noopen middleware
+2021-10-04 08:38:12,710 INFO 91662 [egg-security] use nosniff middleware
+2021-10-04 08:38:12,710 INFO 91662 [egg-security] use xssProtection middleware
+2021-10-04 08:38:12,710 INFO 91662 [egg-security] use xframe middleware
+2021-10-04 08:38:12,710 INFO 91662 [egg-security] use dta middleware
+2021-10-04 08:38:12,710 INFO 91662 [egg-security] compose 6 middlewares into one security middleware
+2021-10-04 08:38:12,719 INFO 91662 [egg:core] dump config after load, 5ms
+2021-10-04 08:38:12,727 INFO 91662 [egg-watcher:application] watcher start success
+2021-10-04 08:38:12,731 INFO 91662 [egg:core] dump config after ready, 3ms
+2021-10-04 08:38:55,817 INFO 91689 [egg:logger] init all loggers with options: {"dir":"/Users/tokyo/Desktop/Study_Demo/Study_Egg/logs/studyegg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"studyegg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-10-04 08:38:55,837 INFO 91689 [egg-multipart] stream mode enable
+2021-10-04 08:38:55,894 INFO 91689 [egg-static] starting static serve /public/ -> /Users/tokyo/Desktop/Study_Demo/Study_Egg/app/public
+2021-10-04 08:38:55,897 INFO 91689 [egg-security] use methodnoallow middleware
+2021-10-04 08:38:55,898 INFO 91689 [egg-security] use noopen middleware
+2021-10-04 08:38:55,898 INFO 91689 [egg-security] use nosniff middleware
+2021-10-04 08:38:55,898 INFO 91689 [egg-security] use xssProtection middleware
+2021-10-04 08:38:55,898 INFO 91689 [egg-security] use xframe middleware
+2021-10-04 08:38:55,898 INFO 91689 [egg-security] use dta middleware
+2021-10-04 08:38:55,898 INFO 91689 [egg-security] compose 6 middlewares into one security middleware
+2021-10-04 08:38:55,907 INFO 91689 [egg:core] dump config after load, 5ms
+2021-10-04 08:38:55,914 INFO 91689 [egg-watcher:application] watcher start success
+2021-10-04 08:38:55,919 INFO 91689 [egg:core] dump config after ready, 4ms
+2021-10-04 08:39:06,874 INFO 91707 [egg:logger] init all loggers with options: {"dir":"/Users/tokyo/Desktop/Study_Demo/Study_Egg/logs/studyegg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"studyegg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-10-04 08:39:06,894 INFO 91707 [egg-multipart] stream mode enable
+2021-10-04 08:39:06,958 INFO 91707 [egg-static] starting static serve /public/ -> /Users/tokyo/Desktop/Study_Demo/Study_Egg/app/public
+2021-10-04 08:39:06,960 INFO 91707 [egg-security] use methodnoallow middleware
+2021-10-04 08:39:06,960 INFO 91707 [egg-security] use noopen middleware
+2021-10-04 08:39:06,961 INFO 91707 [egg-security] use nosniff middleware
+2021-10-04 08:39:06,961 INFO 91707 [egg-security] use xssProtection middleware
+2021-10-04 08:39:06,961 INFO 91707 [egg-security] use xframe middleware
+2021-10-04 08:39:06,961 INFO 91707 [egg-security] use dta middleware
+2021-10-04 08:39:06,961 INFO 91707 [egg-security] compose 6 middlewares into one security middleware
+2021-10-04 08:39:06,969 INFO 91707 [egg:core] dump config after load, 4ms
+2021-10-04 08:39:06,976 INFO 91707 [egg-watcher:application] watcher start success
+2021-10-04 08:39:06,980 INFO 91707 [egg:core] dump config after ready, 2ms
+2021-10-04 08:39:22,612 INFO 91722 [egg:logger] init all loggers with options: {"dir":"/Users/tokyo/Desktop/Study_Demo/Study_Egg/logs/studyegg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"studyegg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-10-04 08:39:22,633 INFO 91722 [egg-multipart] stream mode enable
+2021-10-04 08:39:22,690 INFO 91722 [egg-static] starting static serve /public/ -> /Users/tokyo/Desktop/Study_Demo/Study_Egg/app/public
+2021-10-04 08:39:22,693 INFO 91722 [egg-security] use methodnoallow middleware
+2021-10-04 08:39:22,693 INFO 91722 [egg-security] use noopen middleware
+2021-10-04 08:39:22,693 INFO 91722 [egg-security] use nosniff middleware
+2021-10-04 08:39:22,694 INFO 91722 [egg-security] use xssProtection middleware
+2021-10-04 08:39:22,694 INFO 91722 [egg-security] use xframe middleware
+2021-10-04 08:39:22,694 INFO 91722 [egg-security] use dta middleware
+2021-10-04 08:39:22,694 INFO 91722 [egg-security] compose 6 middlewares into one security middleware
+2021-10-04 08:39:22,702 INFO 91722 [egg:core] dump config after load, 5ms
+2021-10-04 08:39:22,709 INFO 91722 [egg-watcher:application] watcher start success
+2021-10-04 08:39:22,713 INFO 91722 [egg:core] dump config after ready, 3ms
+2021-10-04 08:39:29,857 INFO 91735 [egg:logger] init all loggers with options: {"dir":"/Users/tokyo/Desktop/Study_Demo/Study_Egg/logs/studyegg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"studyegg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-10-04 08:39:29,879 INFO 91735 [egg-multipart] stream mode enable
+2021-10-04 08:39:29,936 INFO 91735 [egg-static] starting static serve /public/ -> /Users/tokyo/Desktop/Study_Demo/Study_Egg/app/public
+2021-10-04 08:39:29,939 INFO 91735 [egg-security] use methodnoallow middleware
+2021-10-04 08:39:29,939 INFO 91735 [egg-security] use noopen middleware
+2021-10-04 08:39:29,939 INFO 91735 [egg-security] use nosniff middleware
+2021-10-04 08:39:29,940 INFO 91735 [egg-security] use xssProtection middleware
+2021-10-04 08:39:29,940 INFO 91735 [egg-security] use xframe middleware
+2021-10-04 08:39:29,940 INFO 91735 [egg-security] use dta middleware
+2021-10-04 08:39:29,940 INFO 91735 [egg-security] compose 6 middlewares into one security middleware
+2021-10-04 08:39:29,948 INFO 91735 [egg:core] dump config after load, 4ms
+2021-10-04 08:39:29,956 INFO 91735 [egg-watcher:application] watcher start success
+2021-10-04 08:39:29,960 INFO 91735 [egg:core] dump config after ready, 3ms
+2021-10-04 08:39:35,938 INFO 91741 [egg:logger] init all loggers with options: {"dir":"/Users/tokyo/Desktop/Study_Demo/Study_Egg/logs/studyegg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"studyegg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-10-04 08:39:35,960 INFO 91741 [egg-multipart] stream mode enable
+2021-10-04 08:39:36,021 INFO 91741 [egg-static] starting static serve /public/ -> /Users/tokyo/Desktop/Study_Demo/Study_Egg/app/public
+2021-10-04 08:39:36,024 INFO 91741 [egg-security] use methodnoallow middleware
+2021-10-04 08:39:36,024 INFO 91741 [egg-security] use noopen middleware
+2021-10-04 08:39:36,025 INFO 91741 [egg-security] use nosniff middleware
+2021-10-04 08:39:36,025 INFO 91741 [egg-security] use xssProtection middleware
+2021-10-04 08:39:36,025 INFO 91741 [egg-security] use xframe middleware
+2021-10-04 08:39:36,025 INFO 91741 [egg-security] use dta middleware
+2021-10-04 08:39:36,025 INFO 91741 [egg-security] compose 6 middlewares into one security middleware
+2021-10-04 08:39:36,032 INFO 91741 [egg:core] dump config after load, 4ms
+2021-10-04 08:39:36,040 INFO 91741 [egg-watcher:application] watcher start success
+2021-10-04 08:39:36,044 INFO 91741 [egg:core] dump config after ready, 3ms
+2021-10-04 08:40:13,827 INFO 91770 [egg:logger] init all loggers with options: {"dir":"/Users/tokyo/Desktop/Study_Demo/Study_Egg/logs/studyegg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"studyegg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-10-04 08:40:13,859 INFO 91770 [egg-multipart] stream mode enable
+2021-10-04 08:40:13,936 INFO 91770 [egg-static] starting static serve /public/ -> /Users/tokyo/Desktop/Study_Demo/Study_Egg/app/public
+2021-10-04 08:40:13,940 INFO 91770 [egg-security] use methodnoallow middleware
+2021-10-04 08:40:13,940 INFO 91770 [egg-security] use noopen middleware
+2021-10-04 08:40:13,941 INFO 91770 [egg-security] use nosniff middleware
+2021-10-04 08:40:13,941 INFO 91770 [egg-security] use xssProtection middleware
+2021-10-04 08:40:13,941 INFO 91770 [egg-security] use xframe middleware
+2021-10-04 08:40:13,941 INFO 91770 [egg-security] use dta middleware
+2021-10-04 08:40:13,941 INFO 91770 [egg-security] compose 6 middlewares into one security middleware
+2021-10-04 08:40:13,955 INFO 91770 [egg:core] dump config after load, 10ms
+2021-10-04 08:40:13,964 INFO 91770 [egg-watcher:application] watcher start success
+2021-10-04 08:40:13,975 INFO 91770 [egg:core] dump config after ready, 6ms
+2021-10-04 08:40:53,799 INFO 91798 [egg:logger] init all loggers with options: {"dir":"/Users/tokyo/Desktop/Study_Demo/Study_Egg/logs/studyegg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"studyegg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-10-04 08:40:53,820 INFO 91798 [egg-multipart] stream mode enable
+2021-10-04 08:40:53,877 INFO 91798 [egg-static] starting static serve /public/ -> /Users/tokyo/Desktop/Study_Demo/Study_Egg/app/public
+2021-10-04 08:40:53,880 INFO 91798 [egg-security] use methodnoallow middleware
+2021-10-04 08:40:53,880 INFO 91798 [egg-security] use noopen middleware
+2021-10-04 08:40:53,880 INFO 91798 [egg-security] use nosniff middleware
+2021-10-04 08:40:53,880 INFO 91798 [egg-security] use xssProtection middleware
+2021-10-04 08:40:53,880 INFO 91798 [egg-security] use xframe middleware
+2021-10-04 08:40:53,881 INFO 91798 [egg-security] use dta middleware
+2021-10-04 08:40:53,881 INFO 91798 [egg-security] compose 6 middlewares into one security middleware
+2021-10-04 08:40:53,889 INFO 91798 [egg:core] dump config after load, 5ms
+2021-10-04 08:40:53,896 INFO 91798 [egg-watcher:application] watcher start success
+2021-10-04 08:40:53,900 INFO 91798 [egg:core] dump config after ready, 3ms
+2021-10-04 08:41:19,323 INFO 91822 [egg:logger] init all loggers with options: {"dir":"/Users/tokyo/Desktop/Study_Demo/Study_Egg/logs/studyegg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"studyegg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-10-04 08:41:19,343 INFO 91822 [egg-multipart] stream mode enable
+2021-10-04 08:41:19,399 INFO 91822 [egg-static] starting static serve /public/ -> /Users/tokyo/Desktop/Study_Demo/Study_Egg/app/public
+2021-10-04 08:41:19,402 INFO 91822 [egg-security] use methodnoallow middleware
+2021-10-04 08:41:19,402 INFO 91822 [egg-security] use noopen middleware
+2021-10-04 08:41:19,403 INFO 91822 [egg-security] use nosniff middleware
+2021-10-04 08:41:19,403 INFO 91822 [egg-security] use xssProtection middleware
+2021-10-04 08:41:19,403 INFO 91822 [egg-security] use xframe middleware
+2021-10-04 08:41:19,403 INFO 91822 [egg-security] use dta middleware
+2021-10-04 08:41:19,403 INFO 91822 [egg-security] compose 6 middlewares into one security middleware
+2021-10-04 08:41:19,411 INFO 91822 [egg:core] dump config after load, 5ms
+2021-10-04 08:41:19,418 INFO 91822 [egg-watcher:application] watcher start success
+2021-10-04 08:41:19,423 INFO 91822 [egg:core] dump config after ready, 3ms
+2021-10-04 09:07:34,792 INFO 93154 [egg:logger] init all loggers with options: {"dir":"/Users/tokyo/Desktop/Study_Demo/Study_Egg/logs/studyegg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"studyegg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-10-04 09:07:34,812 INFO 93154 [egg-multipart] stream mode enable
+2021-10-04 09:07:34,871 INFO 93154 [egg-static] starting static serve /public/ -> /Users/tokyo/Desktop/Study_Demo/Study_Egg/app/public
+2021-10-04 09:07:34,874 INFO 93154 [egg-security] use methodnoallow middleware
+2021-10-04 09:07:34,874 INFO 93154 [egg-security] use noopen middleware
+2021-10-04 09:07:34,874 INFO 93154 [egg-security] use nosniff middleware
+2021-10-04 09:07:34,875 INFO 93154 [egg-security] use xssProtection middleware
+2021-10-04 09:07:34,875 INFO 93154 [egg-security] use xframe middleware
+2021-10-04 09:07:34,875 INFO 93154 [egg-security] use dta middleware
+2021-10-04 09:07:34,875 INFO 93154 [egg-security] compose 6 middlewares into one security middleware
+2021-10-04 09:07:34,883 INFO 93154 [egg:core] dump config after load, 5ms
+2021-10-04 09:07:34,892 INFO 93154 [egg-watcher:application] watcher start success
+2021-10-04 09:07:34,899 INFO 93154 [egg:core] dump config after ready, 5ms

@@ -1,0 +1,656 @@
+2021-06-22 21:10:29,396 ERROR 41112 [-/127.0.0.1/-/3ms POST /test] test.createTest调用异常/test.create TypeError: Cannot read property 'create' of undefined
+    at HomeController.createTest (/Users/tokyo/Desktop/Study_Demo/Study_Egg/app/controller/test.js:17:50)
+    at Object.callFn (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/node_modules/koa-compose/index.js:45:18)
+    at /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/lib/router.js:190:18
+    at dispatch (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/node_modules/koa-compose/index.js:44:32)
+    at /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/lib/router.js:195:33)
+    at dispatch (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/koa-compose/index.js:42:32)
+    at /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-development/app/middleware/egg_loader_trace.js:9:56
+    at dispatch (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/koa-compose/index.js:42:32)
+    at i18n (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-i18n/app/middleware/i18n.js:13:12)
+    at dispatch (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/koa-compose/index.js:42:32)
+    at dispatch (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/koa-compose/index.js:42:32)
+    at dta (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-security/lib/middlewares/dta.js:12:12)
+    at dispatch (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/koa-compose/index.js:42:32)
+    at xframe (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-security/lib/middlewares/xframe.js:7:11)
+    at dispatch (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/koa-compose/index.js:42:32)
+    at xssProtection (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-security/lib/middlewares/xssProtection.js:7:11)
+2021-06-22 21:10:29,401 ERROR 41112 [-/127.0.0.1/-/8ms POST /test] nodejs.ReferenceError: newEntity is not defined
+    at HomeController.createTest (/Users/tokyo/Desktop/Study_Demo/Study_Egg/app/controller/test.js:29:15)
+    at Object.callFn (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/node_modules/koa-compose/index.js:45:18)
+    at /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/lib/router.js:190:18
+    at dispatch (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/node_modules/koa-compose/index.js:44:32)
+    at /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/lib/router.js:195:33)
+    at dispatch (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/koa-compose/index.js:42:32)
+    at /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-development/app/middleware/egg_loader_trace.js:9:56
+    at dispatch (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/koa-compose/index.js:42:32)
+    at i18n (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-i18n/app/middleware/i18n.js:13:12)
+    at dispatch (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/koa-compose/index.js:42:32)
+    at dispatch (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/koa-compose/index.js:42:32)
+    at dta (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-security/lib/middlewares/dta.js:12:12)
+    at dispatch (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/koa-compose/index.js:42:32)
+    at xframe (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-security/lib/middlewares/xframe.js:7:11)
+    at dispatch (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/koa-compose/index.js:42:32)
+    at xssProtection (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-security/lib/middlewares/xssProtection.js:7:11)
+
+pid: 41112
+hostname: Tokyos-MacBook-Pro.local
+
+2021-06-22 21:10:35,887 ERROR 41112 [-/127.0.0.1/-/1ms POST /test] test.createTest调用异常/test.create TypeError: Cannot read property 'create' of undefined
+    at HomeController.createTest (/Users/tokyo/Desktop/Study_Demo/Study_Egg/app/controller/test.js:17:50)
+    at Object.callFn (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/node_modules/koa-compose/index.js:45:18)
+    at /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/lib/router.js:190:18
+    at dispatch (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/node_modules/koa-compose/index.js:44:32)
+    at /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/lib/router.js:195:33)
+    at dispatch (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/koa-compose/index.js:42:32)
+    at /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-development/app/middleware/egg_loader_trace.js:9:56
+    at dispatch (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/koa-compose/index.js:42:32)
+    at i18n (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-i18n/app/middleware/i18n.js:13:12)
+    at dispatch (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/koa-compose/index.js:42:32)
+    at dispatch (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/koa-compose/index.js:42:32)
+    at dta (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-security/lib/middlewares/dta.js:12:12)
+    at dispatch (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/koa-compose/index.js:42:32)
+    at xframe (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-security/lib/middlewares/xframe.js:7:11)
+    at dispatch (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/koa-compose/index.js:42:32)
+    at xssProtection (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-security/lib/middlewares/xssProtection.js:7:11)
+2021-06-22 21:10:35,888 ERROR 41112 [-/127.0.0.1/-/2ms POST /test] nodejs.ReferenceError: newEntity is not defined
+    at HomeController.createTest (/Users/tokyo/Desktop/Study_Demo/Study_Egg/app/controller/test.js:29:15)
+    at Object.callFn (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/node_modules/koa-compose/index.js:45:18)
+    at /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/lib/router.js:190:18
+    at dispatch (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/node_modules/koa-compose/index.js:44:32)
+    at /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/lib/router.js:195:33)
+    at dispatch (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/koa-compose/index.js:42:32)
+    at /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-development/app/middleware/egg_loader_trace.js:9:56
+    at dispatch (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/koa-compose/index.js:42:32)
+    at i18n (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-i18n/app/middleware/i18n.js:13:12)
+    at dispatch (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/koa-compose/index.js:42:32)
+    at dispatch (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/koa-compose/index.js:42:32)
+    at dta (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-security/lib/middlewares/dta.js:12:12)
+    at dispatch (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/koa-compose/index.js:42:32)
+    at xframe (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-security/lib/middlewares/xframe.js:7:11)
+    at dispatch (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/koa-compose/index.js:42:32)
+    at xssProtection (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-security/lib/middlewares/xssProtection.js:7:11)
+
+pid: 41112
+hostname: Tokyos-MacBook-Pro.local
+
+2021-06-22 21:11:29,192 ERROR 41154 [-/127.0.0.1/-/15ms POST /test] test.createTest调用异常/test.create TypeError: Cannot read property 'create' of undefined
+    at HomeController.createTest (/Users/tokyo/Desktop/Study_Demo/Study_Egg/app/controller/test.js:18:50)
+    at Object.callFn (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/node_modules/koa-compose/index.js:45:18)
+    at /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/lib/router.js:190:18
+    at dispatch (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/node_modules/koa-compose/index.js:44:32)
+    at /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/lib/router.js:195:33)
+    at dispatch (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/koa-compose/index.js:42:32)
+    at /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-development/app/middleware/egg_loader_trace.js:9:56
+    at dispatch (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/koa-compose/index.js:42:32)
+    at i18n (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-i18n/app/middleware/i18n.js:13:12)
+    at dispatch (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/koa-compose/index.js:42:32)
+    at dispatch (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/koa-compose/index.js:42:32)
+    at dta (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-security/lib/middlewares/dta.js:12:12)
+    at dispatch (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/koa-compose/index.js:42:32)
+    at xframe (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-security/lib/middlewares/xframe.js:7:11)
+    at dispatch (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/koa-compose/index.js:42:32)
+    at xssProtection (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-security/lib/middlewares/xssProtection.js:7:11)
+2021-06-22 21:13:04,229 ERROR 41154 [-/127.0.0.1/-/3ms POST /test] test.createTest调用异常/test.create TypeError: Cannot read property 'create' of undefined
+    at HomeController.createTest (/Users/tokyo/Desktop/Study_Demo/Study_Egg/app/controller/test.js:18:50)
+    at Object.callFn (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/node_modules/koa-compose/index.js:45:18)
+    at /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/lib/router.js:190:18
+    at dispatch (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/node_modules/koa-compose/index.js:44:32)
+    at /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/lib/router.js:195:33)
+    at dispatch (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/koa-compose/index.js:42:32)
+    at /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-development/app/middleware/egg_loader_trace.js:9:56
+    at dispatch (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/koa-compose/index.js:42:32)
+    at i18n (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-i18n/app/middleware/i18n.js:13:12)
+    at dispatch (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/koa-compose/index.js:42:32)
+    at dispatch (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/koa-compose/index.js:42:32)
+    at dta (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-security/lib/middlewares/dta.js:12:12)
+    at dispatch (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/koa-compose/index.js:42:32)
+    at xframe (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-security/lib/middlewares/xframe.js:7:11)
+    at dispatch (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/koa-compose/index.js:42:32)
+    at xssProtection (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-security/lib/middlewares/xssProtection.js:7:11)
+2021-06-22 21:13:14,713 ERROR 41180 [-/127.0.0.1/-/13ms POST /test] test.createTest调用异常/test.create TypeError: this.ctx.service.test.create is not a function
+    at HomeController.createTest (/Users/tokyo/Desktop/Study_Demo/Study_Egg/app/controller/test.js:18:50)
+    at Object.callFn (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/node_modules/koa-compose/index.js:45:18)
+    at /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/lib/router.js:190:18
+    at dispatch (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/node_modules/koa-compose/index.js:44:32)
+    at /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/lib/router.js:195:33)
+    at dispatch (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/koa-compose/index.js:42:32)
+    at /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-development/app/middleware/egg_loader_trace.js:9:56
+    at dispatch (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/koa-compose/index.js:42:32)
+    at i18n (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-i18n/app/middleware/i18n.js:13:12)
+    at dispatch (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/koa-compose/index.js:42:32)
+    at dispatch (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/koa-compose/index.js:42:32)
+    at dta (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-security/lib/middlewares/dta.js:12:12)
+    at dispatch (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/koa-compose/index.js:42:32)
+    at xframe (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-security/lib/middlewares/xframe.js:7:11)
+    at dispatch (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/koa-compose/index.js:42:32)
+    at xssProtection (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-security/lib/middlewares/xssProtection.js:7:11)
+2021-06-22 21:14:52,064 ERROR 41204 [-/127.0.0.1/-/17ms POST /test] test.createTest调用异常/test.create TypeError: Cannot read property 'create' of undefined
+    at Test.create (/Users/tokyo/Desktop/Study_Demo/Study_Egg/app/service/test.js:17:48)
+    at HomeController.createTest (/Users/tokyo/Desktop/Study_Demo/Study_Egg/app/controller/test.js:18:50)
+    at Object.callFn (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/node_modules/koa-compose/index.js:45:18)
+    at /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/lib/router.js:190:18
+    at dispatch (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/node_modules/koa-compose/index.js:44:32)
+    at /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/lib/router.js:195:33)
+    at dispatch (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/koa-compose/index.js:42:32)
+    at /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-development/app/middleware/egg_loader_trace.js:9:56
+    at dispatch (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/koa-compose/index.js:42:32)
+    at i18n (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-i18n/app/middleware/i18n.js:13:12)
+    at dispatch (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/koa-compose/index.js:42:32)
+    at dispatch (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/koa-compose/index.js:42:32)
+    at dta (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-security/lib/middlewares/dta.js:12:12)
+    at dispatch (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/koa-compose/index.js:42:32)
+    at xframe (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-security/lib/middlewares/xframe.js:7:11)
+    at dispatch (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/koa-compose/index.js:42:32)
+2021-06-22 21:15:31,315 ERROR 41232 [-/127.0.0.1/-/16ms POST /test] test.createTest调用异常/test.create TypeError: Cannot read property 'create' of undefined
+    at Test.create (/Users/tokyo/Desktop/Study_Demo/Study_Egg/app/service/test.js:17:48)
+    at HomeController.createTest (/Users/tokyo/Desktop/Study_Demo/Study_Egg/app/controller/test.js:18:50)
+    at Object.callFn (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/node_modules/koa-compose/index.js:45:18)
+    at /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/lib/router.js:190:18
+    at dispatch (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/node_modules/koa-compose/index.js:44:32)
+    at /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/lib/router.js:195:33)
+    at dispatch (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/koa-compose/index.js:42:32)
+    at /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-development/app/middleware/egg_loader_trace.js:9:56
+    at dispatch (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/koa-compose/index.js:42:32)
+    at i18n (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-i18n/app/middleware/i18n.js:13:12)
+    at dispatch (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/koa-compose/index.js:42:32)
+    at dispatch (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/koa-compose/index.js:42:32)
+    at dta (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-security/lib/middlewares/dta.js:12:12)
+    at dispatch (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/koa-compose/index.js:42:32)
+    at xframe (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-security/lib/middlewares/xframe.js:7:11)
+    at dispatch (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/koa-compose/index.js:42:32)
+2021-06-22 21:16:41,032 ERROR 41238 [-/127.0.0.1/-/29ms POST /test] test.createTest调用异常/test.create TypeError: Cannot read property 'create' of undefined
+    at Test.create (/Users/tokyo/Desktop/Study_Demo/Study_Egg/app/service/test.js:17:48)
+    at HomeController.createTest (/Users/tokyo/Desktop/Study_Demo/Study_Egg/app/controller/test.js:19:50)
+    at Object.callFn (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/node_modules/koa-compose/index.js:45:18)
+    at /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/lib/router.js:190:18
+    at dispatch (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/node_modules/koa-compose/index.js:44:32)
+    at /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/lib/router.js:195:33)
+    at dispatch (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/koa-compose/index.js:42:32)
+    at /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-development/app/middleware/egg_loader_trace.js:9:56
+    at dispatch (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/koa-compose/index.js:42:32)
+    at i18n (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-i18n/app/middleware/i18n.js:13:12)
+    at dispatch (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/koa-compose/index.js:42:32)
+    at dispatch (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/koa-compose/index.js:42:32)
+    at dta (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-security/lib/middlewares/dta.js:12:12)
+    at dispatch (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/koa-compose/index.js:42:32)
+    at xframe (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-security/lib/middlewares/xframe.js:7:11)
+    at dispatch (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/koa-compose/index.js:42:32)
+2021-06-22 21:20:03,324 ERROR 41261 [-/127.0.0.1/-/31ms POST /test] test.createTest调用异常/test.create TypeError: Cannot read property 'create' of undefined
+    at TestService.create (/Users/tokyo/Desktop/Study_Demo/Study_Egg/app/service/test.js:17:48)
+    at HomeController.createTest (/Users/tokyo/Desktop/Study_Demo/Study_Egg/app/controller/test.js:19:50)
+    at Object.callFn (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/node_modules/koa-compose/index.js:45:18)
+    at /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/lib/router.js:190:18
+    at dispatch (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/node_modules/koa-compose/index.js:44:32)
+    at /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/lib/router.js:195:33)
+    at dispatch (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/koa-compose/index.js:42:32)
+    at /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-development/app/middleware/egg_loader_trace.js:9:56
+    at dispatch (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/koa-compose/index.js:42:32)
+    at i18n (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-i18n/app/middleware/i18n.js:13:12)
+    at dispatch (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/koa-compose/index.js:42:32)
+    at dispatch (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/koa-compose/index.js:42:32)
+    at dta (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-security/lib/middlewares/dta.js:12:12)
+    at dispatch (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/koa-compose/index.js:42:32)
+    at xframe (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-security/lib/middlewares/xframe.js:7:11)
+    at dispatch (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/koa-compose/index.js:42:32)
+2021-06-22 21:23:26,313 ERROR 41297 [-/127.0.0.1/-/24ms POST /test] test.createTest调用异常/test.create TypeError: Cannot read property 'create' of undefined
+    at TestService.create (/Users/tokyo/Desktop/Study_Demo/Study_Egg/app/service/test.js:18:48)
+    at HomeController.createTest (/Users/tokyo/Desktop/Study_Demo/Study_Egg/app/controller/test.js:19:50)
+    at Object.callFn (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/node_modules/koa-compose/index.js:45:18)
+    at /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/lib/router.js:190:18
+    at dispatch (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/node_modules/koa-compose/index.js:44:32)
+    at /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/lib/router.js:195:33)
+    at dispatch (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/koa-compose/index.js:42:32)
+    at /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-development/app/middleware/egg_loader_trace.js:9:56
+    at dispatch (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/koa-compose/index.js:42:32)
+    at i18n (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-i18n/app/middleware/i18n.js:13:12)
+    at dispatch (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/koa-compose/index.js:42:32)
+    at dispatch (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/koa-compose/index.js:42:32)
+    at dta (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-security/lib/middlewares/dta.js:12:12)
+    at dispatch (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/koa-compose/index.js:42:32)
+    at xframe (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-security/lib/middlewares/xframe.js:7:11)
+    at dispatch (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/koa-compose/index.js:42:32)
+2021-06-22 21:24:21,873 ERROR 41307 [-/127.0.0.1/-/6ms POST /test] test.createTest调用异常/test.create UniqueConstraintError [SequelizeUniqueConstraintError]: Validation error
+    at Query.formatError (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-sequelize/node_modules/sequelize/lib/dialects/mysql/query.js:242:16)
+    at Query.run (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-sequelize/node_modules/sequelize/lib/dialects/mysql/query.js:77:18)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+    at async /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-sequelize/node_modules/sequelize/lib/sequelize.js:619:16
+    at async MySQLQueryInterface.insert (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-sequelize/node_modules/sequelize/lib/dialects/abstract/query-interface.js:749:21)
+    at async model.save (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-sequelize/node_modules/sequelize/lib/model.js:3954:35)
+    at async Function.create (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-sequelize/node_modules/sequelize/lib/model.js:2207:12)
+    at async TestService.create (/Users/tokyo/Desktop/Study_Demo/Study_Egg/app/service/test.js:18:22)
+    at async HomeController.createTest (/Users/tokyo/Desktop/Study_Demo/Study_Egg/app/controller/test.js:19:22)
+    at async /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-development/app/middleware/egg_loader_trace.js:9:50
+    at async xframe (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-security/lib/middlewares/xframe.js:7:5)
+    at async xssProtection (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-security/lib/middlewares/xssProtection.js:7:5)
+    at async nosniff (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-security/lib/middlewares/nosniff.js:8:5)
+    at async noopen (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-security/lib/middlewares/noopen.js:8:5)
+    at async session (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/koa-session/index.js:41:7)
+    at async bodyParser (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/koa-bodyparser/index.js:95:5)
+    at async /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/koa-static-cache/index.js:39:63
+    at async notfound (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg/app/middleware/notfound.js:5:5)
+    at async meta (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg/app/middleware/meta.js:17:5) {
+  errors: [
+    ValidationErrorItem {
+      message: 'test.PRIMARY must be unique',
+      type: 'unique violation',
+      path: 'test.PRIMARY',
+      value: '',
+      origin: 'DB',
+      instance: [test],
+      validatorKey: 'not_unique',
+      validatorName: null,
+      validatorArgs: []
+    }
+  ],
+  fields: { 'test.PRIMARY': '' },
+  parent: Error: Duplicate entry '' for key 'test.PRIMARY'
+      at Packet.asError (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/mysql2/lib/packets/packet.js:712:17)
+      at Execute.execute (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/mysql2/lib/commands/command.js:28:26)
+      at Connection.handlePacket (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/mysql2/lib/connection.js:425:32)
+      at PacketParser.onPacket (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/mysql2/lib/connection.js:75:12)
+      at PacketParser.executeStart (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/mysql2/lib/packet_parser.js:75:16)
+      at Socket.<anonymous> (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/mysql2/lib/connection.js:82:25)
+      at Socket.emit (events.js:375:28)
+      at addChunk (internal/streams/readable.js:290:12)
+      at readableAddChunk (internal/streams/readable.js:265:9)
+      at Socket.Readable.push (internal/streams/readable.js:204:10)
+      at TCP.onStreamRead (internal/stream_base_commons.js:188:23) {
+    code: 'ER_DUP_ENTRY',
+    errno: 1062,
+    sqlState: '23000',
+    sqlMessage: "Duplicate entry '' for key 'test.PRIMARY'",
+    sql: 'INSERT INTO `test` (`id`,`name`,`age`,`created_time`,`updated_time`) VALUES (?,?,?,?,?);',
+    parameters: [ '', '王德发', 24, '2021-06-22 21:24:21', '2021-06-22 21:24:21' ]
+  },
+  original: Error: Duplicate entry '' for key 'test.PRIMARY'
+      at Packet.asError (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/mysql2/lib/packets/packet.js:712:17)
+      at Execute.execute (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/mysql2/lib/commands/command.js:28:26)
+      at Connection.handlePacket (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/mysql2/lib/connection.js:425:32)
+      at PacketParser.onPacket (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/mysql2/lib/connection.js:75:12)
+      at PacketParser.executeStart (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/mysql2/lib/packet_parser.js:75:16)
+      at Socket.<anonymous> (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/mysql2/lib/connection.js:82:25)
+      at Socket.emit (events.js:375:28)
+      at addChunk (internal/streams/readable.js:290:12)
+      at readableAddChunk (internal/streams/readable.js:265:9)
+      at Socket.Readable.push (internal/streams/readable.js:204:10)
+      at TCP.onStreamRead (internal/stream_base_commons.js:188:23) {
+    code: 'ER_DUP_ENTRY',
+    errno: 1062,
+    sqlState: '23000',
+    sqlMessage: "Duplicate entry '' for key 'test.PRIMARY'",
+    sql: 'INSERT INTO `test` (`id`,`name`,`age`,`created_time`,`updated_time`) VALUES (?,?,?,?,?);',
+    parameters: [ '', '王德发', 24, '2021-06-22 21:24:21', '2021-06-22 21:24:21' ]
+  },
+  sql: 'INSERT INTO `test` (`id`,`name`,`age`,`created_time`,`updated_time`) VALUES (?,?,?,?,?);'
+}
+2021-06-22 21:29:01,549 ERROR 41331 [-/127.0.0.1/-/35ms POST /test] test.createTest调用异常/test.create ReferenceError: ctx is not defined
+    at TestService.create (/Users/tokyo/Desktop/Study_Demo/Study_Egg/app/service/test.js:20:13)
+    at HomeController.createTest (/Users/tokyo/Desktop/Study_Demo/Study_Egg/app/controller/test.js:19:50)
+    at Object.callFn (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/node_modules/koa-compose/index.js:45:18)
+    at /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/lib/router.js:190:18
+    at dispatch (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/node_modules/koa-compose/index.js:44:32)
+    at /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/lib/router.js:195:33)
+    at dispatch (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/koa-compose/index.js:42:32)
+    at /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-development/app/middleware/egg_loader_trace.js:9:56
+    at dispatch (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/koa-compose/index.js:42:32)
+    at i18n (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-i18n/app/middleware/i18n.js:13:12)
+    at dispatch (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/koa-compose/index.js:42:32)
+    at dispatch (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/koa-compose/index.js:42:32)
+    at dta (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-security/lib/middlewares/dta.js:12:12)
+    at dispatch (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/koa-compose/index.js:42:32)
+    at xframe (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-security/lib/middlewares/xframe.js:7:11)
+    at dispatch (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/koa-compose/index.js:42:32)
+2021-06-22 21:29:22,160 ERROR 41335 [-/127.0.0.1/-/15ms POST /test] test.createTest调用异常/test.create TypeError: this.ctx.helper.uuid is not a function
+    at TestService.create (/Users/tokyo/Desktop/Study_Demo/Study_Egg/app/service/test.js:20:29)
+    at HomeController.createTest (/Users/tokyo/Desktop/Study_Demo/Study_Egg/app/controller/test.js:19:50)
+    at Object.callFn (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/node_modules/koa-compose/index.js:45:18)
+    at /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/lib/router.js:190:18
+    at dispatch (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/node_modules/koa-compose/index.js:44:32)
+    at /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/lib/router.js:195:33)
+    at dispatch (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/koa-compose/index.js:42:32)
+    at /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-development/app/middleware/egg_loader_trace.js:9:56
+    at dispatch (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/koa-compose/index.js:42:32)
+    at i18n (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-i18n/app/middleware/i18n.js:13:12)
+    at dispatch (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/koa-compose/index.js:42:32)
+    at dispatch (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/koa-compose/index.js:42:32)
+    at dta (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-security/lib/middlewares/dta.js:12:12)
+    at dispatch (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/koa-compose/index.js:42:32)
+    at xframe (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-security/lib/middlewares/xframe.js:7:11)
+    at dispatch (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/koa-compose/index.js:42:32)
+2021-06-22 21:56:42,529 ERROR 41539 [-/127.0.0.1/-/29ms POST /test] test.createTest调用异常/test.create UniqueConstraintError [SequelizeUniqueConstraintError]: Validation error
+    at Query.formatError (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-sequelize/node_modules/sequelize/lib/dialects/mysql/query.js:242:16)
+    at Query.run (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-sequelize/node_modules/sequelize/lib/dialects/mysql/query.js:77:18)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+    at async /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-sequelize/node_modules/sequelize/lib/sequelize.js:619:16
+    at async MySQLQueryInterface.insert (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-sequelize/node_modules/sequelize/lib/dialects/abstract/query-interface.js:749:21)
+    at async model.save (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-sequelize/node_modules/sequelize/lib/model.js:3954:35)
+    at async Function.create (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-sequelize/node_modules/sequelize/lib/model.js:2207:12)
+    at async TestService.create (/Users/tokyo/Desktop/Study_Demo/Study_Egg/app/service/test.js:18:22)
+    at async HomeController.createTest (/Users/tokyo/Desktop/Study_Demo/Study_Egg/app/controller/test.js:18:22)
+    at async /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-development/app/middleware/egg_loader_trace.js:9:50
+    at async xframe (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-security/lib/middlewares/xframe.js:7:5)
+    at async xssProtection (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-security/lib/middlewares/xssProtection.js:7:5)
+    at async nosniff (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-security/lib/middlewares/nosniff.js:8:5)
+    at async noopen (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-security/lib/middlewares/noopen.js:8:5)
+    at async session (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/koa-session/index.js:41:7)
+    at async bodyParser (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/koa-bodyparser/index.js:95:5)
+    at async /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/koa-static-cache/index.js:39:63
+    at async notfound (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg/app/middleware/notfound.js:5:5)
+    at async meta (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg/app/middleware/meta.js:17:5) {
+  errors: [
+    ValidationErrorItem {
+      message: 'test.PRIMARY must be unique',
+      type: 'unique violation',
+      path: 'test.PRIMARY',
+      value: '',
+      origin: 'DB',
+      instance: [test],
+      validatorKey: 'not_unique',
+      validatorName: null,
+      validatorArgs: []
+    }
+  ],
+  fields: { 'test.PRIMARY': '' },
+  parent: Error: Duplicate entry '' for key 'test.PRIMARY'
+      at Packet.asError (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/mysql2/lib/packets/packet.js:712:17)
+      at Execute.execute (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/mysql2/lib/commands/command.js:28:26)
+      at Connection.handlePacket (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/mysql2/lib/connection.js:425:32)
+      at PacketParser.onPacket (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/mysql2/lib/connection.js:75:12)
+      at PacketParser.executeStart (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/mysql2/lib/packet_parser.js:75:16)
+      at Socket.<anonymous> (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/mysql2/lib/connection.js:82:25)
+      at Socket.emit (events.js:375:28)
+      at addChunk (internal/streams/readable.js:290:12)
+      at readableAddChunk (internal/streams/readable.js:265:9)
+      at Socket.Readable.push (internal/streams/readable.js:204:10)
+      at TCP.onStreamRead (internal/stream_base_commons.js:188:23) {
+    code: 'ER_DUP_ENTRY',
+    errno: 1062,
+    sqlState: '23000',
+    sqlMessage: "Duplicate entry '' for key 'test.PRIMARY'",
+    sql: 'INSERT INTO `test` (`id`,`name`,`age`,`created_time`,`updated_time`) VALUES (?,?,?,?,?);',
+    parameters: [ '', '王德发', 24, '2021-06-22 21:56:42', '2021-06-22 21:56:42' ]
+  },
+  original: Error: Duplicate entry '' for key 'test.PRIMARY'
+      at Packet.asError (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/mysql2/lib/packets/packet.js:712:17)
+      at Execute.execute (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/mysql2/lib/commands/command.js:28:26)
+      at Connection.handlePacket (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/mysql2/lib/connection.js:425:32)
+      at PacketParser.onPacket (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/mysql2/lib/connection.js:75:12)
+      at PacketParser.executeStart (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/mysql2/lib/packet_parser.js:75:16)
+      at Socket.<anonymous> (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/mysql2/lib/connection.js:82:25)
+      at Socket.emit (events.js:375:28)
+      at addChunk (internal/streams/readable.js:290:12)
+      at readableAddChunk (internal/streams/readable.js:265:9)
+      at Socket.Readable.push (internal/streams/readable.js:204:10)
+      at TCP.onStreamRead (internal/stream_base_commons.js:188:23) {
+    code: 'ER_DUP_ENTRY',
+    errno: 1062,
+    sqlState: '23000',
+    sqlMessage: "Duplicate entry '' for key 'test.PRIMARY'",
+    sql: 'INSERT INTO `test` (`id`,`name`,`age`,`created_time`,`updated_time`) VALUES (?,?,?,?,?);',
+    parameters: [ '', '王德发', 24, '2021-06-22 21:56:42', '2021-06-22 21:56:42' ]
+  },
+  sql: 'INSERT INTO `test` (`id`,`name`,`age`,`created_time`,`updated_time`) VALUES (?,?,?,?,?);'
+}
+2021-06-24 17:38:00,007 ERROR 15608 [-/127.0.0.1/-/19ms POST /user/create] test.createUser调用异常/user.create TypeError: Cannot read property 'User' of undefined
+    at TestService.createUser (/Users/tokyo/Desktop/Study_Demo/Study_Egg/app/service/user.js:17:43)
+    at HomeController.createUser (/Users/tokyo/Desktop/Study_Demo/Study_Egg/app/controller/user.js:18:50)
+    at Object.callFn (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/node_modules/koa-compose/index.js:45:18)
+    at /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/lib/router.js:190:18
+    at dispatch (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/node_modules/koa-compose/index.js:44:32)
+2021-06-24 17:39:45,692 ERROR 15608 [-/127.0.0.1/-/4ms POST /user/create] test.createUser调用异常/user.create TypeError: Cannot read property 'User' of undefined
+    at TestService.createUser (/Users/tokyo/Desktop/Study_Demo/Study_Egg/app/service/user.js:17:43)
+    at HomeController.createUser (/Users/tokyo/Desktop/Study_Demo/Study_Egg/app/controller/user.js:18:50)
+    at Object.callFn (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/node_modules/koa-compose/index.js:45:18)
+    at /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/lib/router.js:190:18
+    at dispatch (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/node_modules/koa-compose/index.js:44:32)
+2021-06-24 17:39:50,776 ERROR 15608 [-/127.0.0.1/-/1ms POST /user/create] test.createUser调用异常/user.create TypeError: Cannot read property 'User' of undefined
+    at TestService.createUser (/Users/tokyo/Desktop/Study_Demo/Study_Egg/app/service/user.js:17:43)
+    at HomeController.createUser (/Users/tokyo/Desktop/Study_Demo/Study_Egg/app/controller/user.js:18:50)
+    at Object.callFn (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/node_modules/koa-compose/index.js:45:18)
+    at /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/lib/router.js:190:18
+    at dispatch (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/node_modules/koa-compose/index.js:44:32)
+2021-06-24 17:42:15,776 ERROR 15802 [-/127.0.0.1/-/19ms POST /user/create] test.createUser调用异常/user.create TypeError: Cannot read property 'User' of undefined
+    at TestService.createUser (/Users/tokyo/Desktop/Study_Demo/Study_Egg/app/service/user.js:17:43)
+    at HomeController.createUser (/Users/tokyo/Desktop/Study_Demo/Study_Egg/app/controller/user.js:18:50)
+    at Object.callFn (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/node_modules/koa-compose/index.js:45:18)
+    at /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/lib/router.js:190:18
+    at dispatch (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/node_modules/koa-compose/index.js:44:32)
+2021-06-24 18:02:46,888 ERROR 15802 [-/127.0.0.1/-/4ms POST /user/create] test.createUser调用异常/user.create TypeError: Cannot read property 'User' of undefined
+    at TestService.createUser (/Users/tokyo/Desktop/Study_Demo/Study_Egg/app/service/user.js:17:43)
+    at HomeController.createUser (/Users/tokyo/Desktop/Study_Demo/Study_Egg/app/controller/user.js:18:50)
+    at Object.callFn (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/node_modules/koa-compose/index.js:45:18)
+    at /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/lib/router.js:190:18
+    at dispatch (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/node_modules/koa-compose/index.js:44:32)
+2021-06-24 18:03:28,925 ERROR 15802 [-/127.0.0.1/-/1ms POST /user/create] test.createUser调用异常/user.create TypeError: Cannot read property 'User' of undefined
+    at TestService.createUser (/Users/tokyo/Desktop/Study_Demo/Study_Egg/app/service/user.js:17:43)
+    at HomeController.createUser (/Users/tokyo/Desktop/Study_Demo/Study_Egg/app/controller/user.js:18:50)
+    at Object.callFn (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/node_modules/koa-compose/index.js:45:18)
+    at /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/lib/router.js:190:18
+    at dispatch (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/node_modules/koa-compose/index.js:44:32)
+2021-06-24 18:03:28,932 ERROR 15802 [-/127.0.0.1/-/1ms POST /user/create] test.createUser调用异常/user.create TypeError: Cannot read property 'User' of undefined
+    at TestService.createUser (/Users/tokyo/Desktop/Study_Demo/Study_Egg/app/service/user.js:17:43)
+    at HomeController.createUser (/Users/tokyo/Desktop/Study_Demo/Study_Egg/app/controller/user.js:18:50)
+    at Object.callFn (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/node_modules/koa-compose/index.js:45:18)
+    at /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/lib/router.js:190:18
+    at dispatch (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/node_modules/koa-compose/index.js:44:32)
+2021-06-24 18:03:28,944 ERROR 15802 [-/127.0.0.1/-/1ms POST /user/create] test.createUser调用异常/user.create TypeError: Cannot read property 'User' of undefined
+    at TestService.createUser (/Users/tokyo/Desktop/Study_Demo/Study_Egg/app/service/user.js:17:43)
+    at HomeController.createUser (/Users/tokyo/Desktop/Study_Demo/Study_Egg/app/controller/user.js:18:50)
+    at Object.callFn (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/node_modules/koa-compose/index.js:45:18)
+    at /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/lib/router.js:190:18
+    at dispatch (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/node_modules/koa-compose/index.js:44:32)
+2021-06-24 18:03:29,082 ERROR 15802 [-/127.0.0.1/-/1ms POST /user/create] test.createUser调用异常/user.create TypeError: Cannot read property 'User' of undefined
+    at TestService.createUser (/Users/tokyo/Desktop/Study_Demo/Study_Egg/app/service/user.js:17:43)
+    at HomeController.createUser (/Users/tokyo/Desktop/Study_Demo/Study_Egg/app/controller/user.js:18:50)
+    at Object.callFn (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/node_modules/koa-compose/index.js:45:18)
+    at /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/lib/router.js:190:18
+    at dispatch (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/node_modules/koa-compose/index.js:44:32)
+2021-06-24 20:02:06,364 ERROR 15606 nodejs.ClusterClientNoResponseError: client no response in 712312ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:557:17)
+    at processTimers (internal/timers.js:500:7)
+name: "ClusterClientNoResponseError"
+pid: 15606
+hostname: Tokyos-MacBook-Pro.local
+
+2021-06-24 20:03:46,495 ERROR 15802 [-/127.0.0.1/-/5ms POST /user/create] test.createUser调用异常/user.create TypeError: Cannot read property 'User' of undefined
+    at TestService.createUser (/Users/tokyo/Desktop/Study_Demo/Study_Egg/app/service/user.js:17:43)
+    at HomeController.createUser (/Users/tokyo/Desktop/Study_Demo/Study_Egg/app/controller/user.js:18:50)
+    at Object.callFn (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/node_modules/koa-compose/index.js:45:18)
+    at /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/lib/router.js:190:18
+    at dispatch (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/node_modules/koa-compose/index.js:44:32)
+2021-06-24 20:04:09,331 ERROR 15802 [-/127.0.0.1/-/0ms POST /user/create] test.createUser调用异常/user.create TypeError: Cannot read property 'User' of undefined
+    at TestService.createUser (/Users/tokyo/Desktop/Study_Demo/Study_Egg/app/service/user.js:17:43)
+    at HomeController.createUser (/Users/tokyo/Desktop/Study_Demo/Study_Egg/app/controller/user.js:18:50)
+    at Object.callFn (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/node_modules/koa-compose/index.js:45:18)
+    at /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/lib/router.js:190:18
+    at dispatch (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/node_modules/koa-compose/index.js:44:32)
+2021-06-24 20:06:11,714 ERROR 15802 [-/127.0.0.1/-/1ms POST /user/create] test.createUser调用异常/user.create TypeError: Cannot read property 'User' of undefined
+    at TestService.createUser (/Users/tokyo/Desktop/Study_Demo/Study_Egg/app/service/user.js:17:43)
+    at HomeController.createUser (/Users/tokyo/Desktop/Study_Demo/Study_Egg/app/controller/user.js:18:50)
+    at Object.callFn (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/node_modules/koa-compose/index.js:45:18)
+    at /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/lib/router.js:190:18
+    at dispatch (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/node_modules/koa-compose/index.js:44:32)
+2021-06-24 20:07:23,872 ERROR 15802 [-/127.0.0.1/-/0ms POST /user/create] test.createUser调用异常/user.create TypeError: Cannot read property 'User' of undefined
+    at TestService.createUser (/Users/tokyo/Desktop/Study_Demo/Study_Egg/app/service/user.js:17:43)
+    at HomeController.createUser (/Users/tokyo/Desktop/Study_Demo/Study_Egg/app/controller/user.js:18:50)
+    at Object.callFn (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/node_modules/koa-compose/index.js:45:18)
+    at /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/lib/router.js:190:18
+    at dispatch (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/node_modules/koa-compose/index.js:44:32)
+2021-06-24 20:08:25,926 ERROR 19288 [-/127.0.0.1/-/12ms POST /user/create] test.createUser调用异常/user.createUser TypeError: Cannot read property 'User' of undefined
+    at TestService.createUser (/Users/tokyo/Desktop/Study_Demo/Study_Egg/app/service/user.js:17:43)
+    at HomeController.createUser (/Users/tokyo/Desktop/Study_Demo/Study_Egg/app/controller/user.js:18:50)
+    at Object.callFn (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/node_modules/koa-compose/index.js:45:18)
+    at /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/lib/router.js:190:18
+    at dispatch (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/node_modules/koa-compose/index.js:44:32)
+2021-06-24 23:45:17,432 ERROR 15606 nodejs.ClusterClientNoResponseError: client no response in 85413ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:557:17)
+    at processTimers (internal/timers.js:500:7)
+name: "ClusterClientNoResponseError"
+pid: 15606
+hostname: Tokyos-MacBook-Pro.local
+
+2021-06-25 00:03:23,863 ERROR 15606 nodejs.ClusterClientNoResponseError: client no response in 1066387ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:557:17)
+    at processTimers (internal/timers.js:500:7)
+name: "ClusterClientNoResponseError"
+pid: 15606
+hostname: Tokyos-MacBook-Pro.local
+

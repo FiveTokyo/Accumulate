@@ -1,0 +1,329 @@
+{
+  "keys": "/Users/tokyo/Desktop/Study_Demo/Study_Egg/config/config.default.js",
+  "sequelize": {
+    "dialect": "/Users/tokyo/Desktop/Study_Demo/Study_Egg/config/config.default.js",
+    "database": "/Users/tokyo/Desktop/Study_Demo/Study_Egg/config/config.default.js",
+    "host": "/Users/tokyo/Desktop/Study_Demo/Study_Egg/config/config.default.js",
+    "port": "/Users/tokyo/Desktop/Study_Demo/Study_Egg/config/config.default.js",
+    "username": "/Users/tokyo/Desktop/Study_Demo/Study_Egg/config/config.default.js",
+    "password": "/Users/tokyo/Desktop/Study_Demo/Study_Egg/config/config.default.js",
+    "timezone": "/Users/tokyo/Desktop/Study_Demo/Study_Egg/config/config.default.js",
+    "dialectOptions": {
+      "dateStrings": "/Users/tokyo/Desktop/Study_Demo/Study_Egg/config/config.default.js",
+      "typeCast": "/Users/tokyo/Desktop/Study_Demo/Study_Egg/config/config.default.js"
+    },
+    "pool": {
+      "max": "/Users/tokyo/Desktop/Study_Demo/Study_Egg/config/config.default.js",
+      "min": "/Users/tokyo/Desktop/Study_Demo/Study_Egg/config/config.default.js",
+      "acquire": "/Users/tokyo/Desktop/Study_Demo/Study_Egg/config/config.default.js"
+    }
+  },
+  "middleware": "/Users/tokyo/Desktop/Study_Demo/Study_Egg/config/config.default.js",
+  "cors": {
+    "origin": "/Users/tokyo/Desktop/Study_Demo/Study_Egg/config/config.default.js"
+  },
+  "security": {
+    "ctoken": "/Users/tokyo/Desktop/Study_Demo/Study_Egg/config/config.default.js",
+    "domainWhiteList": "/Users/tokyo/Desktop/Study_Demo/Study_Egg/config/config.default.js",
+    "csrf": {
+      "enable": "/Users/tokyo/Desktop/Study_Demo/Study_Egg/config/config.default.js",
+      "useSession": "/Users/tokyo/Desktop/Study_Demo/Study_Egg/config/config.default.js",
+      "cookieName": "/Users/tokyo/Desktop/Study_Demo/Study_Egg/config/config.default.js",
+      "sessionName": "/Users/tokyo/Desktop/Study_Demo/Study_Egg/config/config.default.js",
+      "queryName": "/Users/tokyo/Desktop/Study_Demo/Study_Egg/config/config.default.js",
+      "bodyName": "/Users/tokyo/Desktop/Study_Demo/Study_Egg/config/config.default.js",
+      "ignore": "/Users/tokyo/Desktop/Study_Demo/Study_Egg/config/config.default.js",
+      "type": "/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-security/config/config.default.js",
+      "ignoreJSON": "/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-security/config/config.default.js",
+      "headerName": "/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-security/config/config.default.js",
+      "refererWhiteList": "/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-security/config/config.default.js"
+    },
+    "protocolWhiteList": "/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-security/config/config.default.js",
+    "defaultMiddleware": "/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-security/config/config.default.js",
+    "xframe": {
+      "enable": "/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-security/config/config.default.js"
+    },
+    "hsts": {
+      "enable": "/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-security/config/config.local.js",
+      "maxAge": "/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-security/config/config.default.js",
+      "includeSubdomains": "/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-security/config/config.default.js"
+    },
+    "dta": {
+      "enable": "/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-security/config/config.default.js"
+    },
+    "methodnoallow": {
+      "enable": "/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-security/config/config.default.js"
+    },
+    "noopen": {
+      "enable": "/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-security/config/config.default.js"
+    },
+    "nosniff": {
+      "enable": "/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-security/config/config.default.js"
+    },
+    "referrerPolicy": {
+      "enable": "/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-security/config/config.default.js"
+    },
+    "xssProtection": {
+      "enable": "/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-security/config/config.default.js"
+    },
+    "csp": {
+      "enable": "/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-security/config/config.default.js",
+      "policy": "/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-security/config/config.default.js"
+    },
+    "ssrf": {
+      "ipBlackList": "/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-security/config/config.default.js",
+      "ipExceptionList": "/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-security/config/config.default.js",
+      "checkAddress": "/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-security/config/config.default.js"
+    }
+  },
+  "session": {
+    "maxAge": "/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-session/config/config.default.js",
+    "key": "/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-session/config/config.default.js",
+    "httpOnly": "/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-session/config/config.default.js",
+    "encrypt": "/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-session/config/config.default.js",
+    "logValue": "/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-session/config/config.default.js"
+  },
+  "helper": {
+    "shtml": "/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-security/config/config.default.js"
+  },
+  "jsonp": {
+    "limit": "/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-jsonp/config/config.default.js",
+    "callback": "/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-jsonp/config/config.default.js",
+    "csrf": "/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-jsonp/config/config.default.js"
+  },
+  "onerror": {
+    "errorPageUrl": "/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-onerror/config/config.default.js",
+    "appErrorFilter": "/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-onerror/config/config.default.js",
+    "templatePath": "/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-onerror/config/config.default.js"
+  },
+  "i18n": {
+    "defaultLocale": "/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-i18n/config/config.default.js",
+    "dirs": "/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-i18n/config/config.default.js",
+    "queryField": "/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-i18n/config/config.default.js",
+    "cookieField": "/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-i18n/config/config.default.js",
+    "cookieDomain": "/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-i18n/config/config.default.js",
+    "cookieMaxAge": "/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-i18n/config/config.default.js"
+  },
+  "watcher": {
+    "type": "/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-watcher/config/config.local.js",
+    "eventSources": {
+      "default": "/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-watcher/config/config.default.js",
+      "development": "/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-watcher/config/config.default.js"
+    }
+  },
+  "customLogger": {
+    "scheduleLogger": {
+      "consoleLevel": "/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-schedule/config/config.default.js",
+      "file": "/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-schedule/config/config.default.js"
+    }
+  },
+  "schedule": {
+    "directory": "/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-schedule/config/config.default.js"
+  },
+  "multipart": {
+    "mode": "/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-multipart/config/config.default.js",
+    "autoFields": "/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-multipart/config/config.default.js",
+    "defaultCharset": "/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-multipart/config/config.default.js",
+    "fieldNameSize": "/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-multipart/config/config.default.js",
+    "fieldSize": "/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-multipart/config/config.default.js",
+    "fields": "/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-multipart/config/config.default.js",
+    "fileSize": "/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-multipart/config/config.default.js",
+    "files": "/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-multipart/config/config.default.js",
+    "fileExtensions": "/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-multipart/config/config.default.js",
+    "whitelist": "/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-multipart/config/config.default.js",
+    "allowArrayField": "/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-multipart/config/config.default.js",
+    "tmpdir": "/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-multipart/config/config.default.js",
+    "cleanSchedule": {
+      "cron": "/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-multipart/config/config.default.js",
+      "disable": "/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-multipart/config/config.default.js"
+    }
+  },
+  "development": {
+    "watchDirs": "/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-development/config/config.default.js",
+    "ignoreDirs": "/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-development/config/config.default.js",
+    "fastReady": "/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-development/config/config.default.js",
+    "reloadOnDebug": "/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-development/config/config.default.js",
+    "overrideDefault": "/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-development/config/config.default.js",
+    "overrideIgnore": "/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-development/config/config.default.js"
+  },
+  "logrotator": {
+    "filesRotateByHour": "/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-logrotator/config/config.default.js",
+    "hourDelimiter": "/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-logrotator/config/config.default.js",
+    "filesRotateBySize": "/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-logrotator/config/config.default.js",
+    "maxFileSize": "/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-logrotator/config/config.default.js",
+    "maxFiles": "/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-logrotator/config/config.default.js",
+    "rotateDuration": "/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-logrotator/config/config.default.js",
+    "maxDays": "/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-logrotator/config/config.default.js"
+  },
+  "static": {
+    "prefix": "/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-static/config/config.default.js",
+    "dir": "/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-static/config/config.default.js",
+    "dynamic": "/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-static/config/config.default.js",
+    "preload": "/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-static/config/config.default.js",
+    "buffer": "/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-static/config/config.default.js",
+    "maxFiles": "/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-static/config/config.default.js"
+  },
+  "view": {
+    "root": "/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-view/config/config.default.js",
+    "cache": "/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-view/config/config.local.js",
+    "defaultExtension": "/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-view/config/config.default.js",
+    "defaultViewEngine": "/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-view/config/config.default.js",
+    "mapping": "/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-view/config/config.default.js"
+  },
+  "env": "/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg/config/config.default.js",
+  "name": "/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg/config/config.default.js",
+  "cookies": "/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg/config/config.default.js",
+  "proxy": "/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg/config/config.default.js",
+  "maxIpsCount": "/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg/config/config.default.js",
+  "maxProxyCount": "/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg/config/config.default.js",
+  "protocolHeaders": "/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg/config/config.default.js",
+  "ipHeaders": "/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg/config/config.default.js",
+  "hostHeaders": "/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg/config/config.default.js",
+  "pkg": {
+    "name": "/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg/config/config.default.js",
+    "version": "/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg/config/config.default.js",
+    "description": "/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg/config/config.default.js",
+    "private": "/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg/config/config.default.js",
+    "egg": {
+      "declarations": "/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg/config/config.default.js"
+    },
+    "dependencies": {
+      "egg": "/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg/config/config.default.js",
+      "egg-cors": "/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg/config/config.default.js",
+      "egg-mysql": "/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg/config/config.default.js",
+      "egg-scripts": "/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg/config/config.default.js",
+      "egg-sequelize": "/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg/config/config.default.js",
+      "mysql2": "/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg/config/config.default.js",
+      "sequelize": "/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg/config/config.default.js",
+      "sequelize-auto": "/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg/config/config.default.js",
+      "uuid": "/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg/config/config.default.js"
+    },
+    "devDependencies": {
+      "autod": "/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg/config/config.default.js",
+      "autod-egg": "/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg/config/config.default.js",
+      "egg-bin": "/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg/config/config.default.js",
+      "egg-ci": "/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg/config/config.default.js",
+      "egg-mock": "/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg/config/config.default.js",
+      "eslint": "/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg/config/config.default.js",
+      "eslint-config-egg": "/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg/config/config.default.js"
+    },
+    "engines": {
+      "node": "/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg/config/config.default.js"
+    },
+    "scripts": {
+      "start": "/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg/config/config.default.js",
+      "stop": "/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg/config/config.default.js",
+      "dev": "/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg/config/config.default.js",
+      "debug": "/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg/config/config.default.js",
+      "test": "/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg/config/config.default.js",
+      "test-local": "/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg/config/config.default.js",
+      "cov": "/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg/config/config.default.js",
+      "lint": "/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg/config/config.default.js",
+      "ci": "/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg/config/config.default.js",
+      "autod": "/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg/config/config.default.js",
+      "model": "/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg/config/config.default.js"
+    },
+    "ci": {
+      "version": "/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg/config/config.default.js"
+    },
+    "repository": {
+      "type": "/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg/config/config.default.js",
+      "url": "/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg/config/config.default.js"
+    },
+    "author": "/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg/config/config.default.js",
+    "license": "/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg/config/config.default.js"
+  },
+  "baseDir": "/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg/config/config.default.js",
+  "HOME": "/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg/config/config.default.js",
+  "rundir": "/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg/config/config.default.js",
+  "dump": {
+    "ignore": "/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg/config/config.default.js"
+  },
+  "confusedConfigurations": {
+    "bodyparser": "/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg/config/config.default.js",
+    "notFound": "/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg/config/config.default.js",
+    "sitefile": "/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg/config/config.default.js",
+    "middlewares": "/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg/config/config.default.js",
+    "httpClient": "/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg/config/config.default.js"
+  },
+  "notfound": {
+    "pageUrl": "/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg/config/config.default.js"
+  },
+  "siteFile": {
+    "/favicon.ico": "/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg/config/config.default.js"
+  },
+  "bodyParser": {
+    "enable": "/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg/config/config.default.js",
+    "encoding": "/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg/config/config.default.js",
+    "formLimit": "/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg/config/config.default.js",
+    "jsonLimit": "/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg/config/config.default.js",
+    "textLimit": "/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg/config/config.default.js",
+    "strict": "/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg/config/config.default.js",
+    "queryString": {
+      "arrayLimit": "/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg/config/config.default.js",
+      "depth": "/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg/config/config.default.js",
+      "parameterLimit": "/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg/config/config.default.js"
+    },
+    "onerror": "/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg/config/config.default.js"
+  },
+  "logger": {
+    "dir": "/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg/config/config.default.js",
+    "encoding": "/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg/config/config.default.js",
+    "env": "/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg/config/config.default.js",
+    "level": "/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg/config/config.default.js",
+    "consoleLevel": "/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg/config/config.default.js",
+    "disableConsoleAfterReady": "/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg/config/config.default.js",
+    "outputJSON": "/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg/config/config.default.js",
+    "buffer": "/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg/config/config.default.js",
+    "appLogName": "/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg/config/config.default.js",
+    "coreLogName": "/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg/config/config.default.js",
+    "agentLogName": "/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg/config/config.default.js",
+    "errorLogName": "/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg/config/config.default.js",
+    "coreLogger": {
+      "consoleLevel": "/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg/config/config.local.js"
+    },
+    "allowDebugAtProd": "/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg/config/config.default.js"
+  },
+  "httpclient": {
+    "enableDNSCache": "/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg/config/config.default.js",
+    "dnsCacheLookupInterval": "/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg/config/config.default.js",
+    "dnsCacheMaxLength": "/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg/config/config.default.js",
+    "request": {
+      "timeout": "/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg/config/config.default.js"
+    },
+    "httpAgent": {
+      "keepAlive": "/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg/config/config.default.js",
+      "freeSocketTimeout": "/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg/config/config.default.js",
+      "maxSockets": "/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg/config/config.default.js",
+      "maxFreeSockets": "/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg/config/config.default.js"
+    },
+    "httpsAgent": {
+      "keepAlive": "/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg/config/config.default.js",
+      "freeSocketTimeout": "/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg/config/config.default.js",
+      "maxSockets": "/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg/config/config.default.js",
+      "maxFreeSockets": "/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg/config/config.default.js"
+    }
+  },
+  "meta": {
+    "enable": "/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg/config/config.default.js",
+    "logging": "/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg/config/config.default.js"
+  },
+  "coreMiddleware": "/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg/config/config.default.js",
+  "workerStartTimeout": "/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg/config/config.default.js",
+  "serverTimeout": "/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg/config/config.default.js",
+  "cluster": {
+    "listen": {
+      "path": "/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg/config/config.default.js",
+      "port": "/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg/config/config.default.js",
+      "hostname": "/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg/config/config.default.js"
+    }
+  },
+  "clusterClient": {
+    "maxWaitTime": "/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg/config/config.default.js",
+    "responseTimeout": "/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg/config/config.default.js"
+  },
+  "onClientError": "/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg/config/config.default.js"
+}

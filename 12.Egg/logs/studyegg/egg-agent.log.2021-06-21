@@ -1,0 +1,131 @@
+2021-06-21 19:40:23,003 INFO 31468 [egg:logger] init all loggers with options: {"dir":"/Users/tokyo/Desktop/Study_Demo/Study_Egg/logs/studyegg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"studyegg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2021-06-21 19:40:23,010 INFO 31468 [egg:core] dump config after load, 4ms
+2021-06-21 19:40:23,041 INFO 31468 [egg-watcher] Start watching: ["/Users/tokyo/Desktop/Study_Demo/Study_Egg/app","/Users/tokyo/Desktop/Study_Demo/Study_Egg/config","/Users/tokyo/Desktop/Study_Demo/Study_Egg/mocks","/Users/tokyo/Desktop/Study_Demo/Study_Egg/mocks_proxy","/Users/tokyo/Desktop/Study_Demo/Study_Egg/app.js"]
+2021-06-21 19:40:23,041 INFO 31468 [egg-watcher] Start watching: "/Users/tokyo/Desktop/Study_Demo/Study_Egg/app"
+2021-06-21 19:40:23,042 INFO 31468 [egg-watcher] Start watching: "/Users/tokyo/Desktop/Study_Demo/Study_Egg/config"
+2021-06-21 19:40:23,042 INFO 31468 [egg-watcher] Start watching: "/Users/tokyo/Desktop/Study_Demo/Study_Egg/mocks"
+2021-06-21 19:40:23,042 INFO 31468 [egg-watcher] Start watching: "/Users/tokyo/Desktop/Study_Demo/Study_Egg/mocks_proxy"
+2021-06-21 19:40:23,042 INFO 31468 [egg-watcher] Start watching: "/Users/tokyo/Desktop/Study_Demo/Study_Egg/app.js"
+2021-06-21 19:40:23,042 INFO 31468 [egg-watcher:agent] watcher start success
+2021-06-21 19:40:23,052 INFO 31468 [egg:core] dump config after ready, 3ms
+2021-06-21 20:08:27,878 INFO 31468 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/tokyo/Desktop/Study_Demo/Study_Egg/app/controller/home.js","stat":{"dev":16777234,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":1382761,"size":527,"blocks":8,"atimeMs":1624274611133.1404,"mtimeMs":1624277307848.6003,"ctimeMs":1624277307848.6003,"birthtimeMs":1624273432255.8567,"atime":"2021-06-21T11:23:31.133Z","mtime":"2021-06-21T12:08:27.849Z","ctime":"2021-06-21T12:08:27.849Z","birthtime":"2021-06-21T11:03:52.256Z"},"remove":false,"isDirectory":false,"isFile":true}
+2021-06-21 20:08:27,926 INFO 31468 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/tokyo/Desktop/Study_Demo/Study_Egg/app/controller/home.js","stat":{"dev":16777234,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":1382761,"size":527,"blocks":8,"atimeMs":1624274611133.1404,"mtimeMs":1624277307848.6003,"ctimeMs":1624277307848.6003,"birthtimeMs":1624273432255.8567,"atime":"2021-06-21T11:23:31.133Z","mtime":"2021-06-21T12:08:27.849Z","ctime":"2021-06-21T12:08:27.849Z","birthtime":"2021-06-21T11:03:52.256Z"},"remove":false,"isDirectory":false,"isFile":true}
+2021-06-21 20:08:28,133 WARN 31468 [agent:development] reload worker because /Users/tokyo/Desktop/Study_Demo/Study_Egg/app/controller/home.js change
+2021-06-21 20:08:31,573 WARN 31468 [agent:development] reload worker because /Users/tokyo/Desktop/Study_Demo/Study_Egg/app/controller/home.js change
+2021-06-21 20:08:31,316 INFO 31468 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/tokyo/Desktop/Study_Demo/Study_Egg/app/controller/home.js","stat":{"dev":16777234,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":1382761,"size":525,"blocks":8,"atimeMs":1624277310226.6084,"mtimeMs":1624277311305.2278,"ctimeMs":1624277311305.2278,"birthtimeMs":1624273432255.8567,"atime":"2021-06-21T12:08:30.227Z","mtime":"2021-06-21T12:08:31.305Z","ctime":"2021-06-21T12:08:31.305Z","birthtime":"2021-06-21T11:03:52.256Z"},"remove":false,"isDirectory":false,"isFile":true}
+2021-06-21 20:08:31,367 INFO 31468 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/tokyo/Desktop/Study_Demo/Study_Egg/app/controller/home.js","stat":{"dev":16777234,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":1382761,"size":525,"blocks":8,"atimeMs":1624277310226.6084,"mtimeMs":1624277311305.2278,"ctimeMs":1624277311305.2278,"birthtimeMs":1624273432255.8567,"atime":"2021-06-21T12:08:30.227Z","mtime":"2021-06-21T12:08:31.305Z","ctime":"2021-06-21T12:08:31.305Z","birthtime":"2021-06-21T11:03:52.256Z"},"remove":false,"isDirectory":false,"isFile":true}
+2021-06-21 20:08:40,413 WARN 31468 [agent:development] reload worker because /Users/tokyo/Desktop/Study_Demo/Study_Egg/app/controller/home.js change
+2021-06-21 20:08:40,109 INFO 31468 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/tokyo/Desktop/Study_Demo/Study_Egg/app/controller/home.js","stat":{"dev":16777234,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":1382761,"size":527,"blocks":8,"atimeMs":1624277313711.476,"mtimeMs":1624277320097.13,"ctimeMs":1624277320097.13,"birthtimeMs":1624273432255.8567,"atime":"2021-06-21T12:08:33.711Z","mtime":"2021-06-21T12:08:40.097Z","ctime":"2021-06-21T12:08:40.097Z","birthtime":"2021-06-21T11:03:52.256Z"},"remove":false,"isDirectory":false,"isFile":true}
+2021-06-21 20:08:40,158 INFO 31468 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/tokyo/Desktop/Study_Demo/Study_Egg/app/controller/home.js","stat":{"dev":16777234,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":1382761,"size":527,"blocks":8,"atimeMs":1624277313711.476,"mtimeMs":1624277320141.9238,"ctimeMs":1624277320141.9238,"birthtimeMs":1624273432255.8567,"atime":"2021-06-21T12:08:33.711Z","mtime":"2021-06-21T12:08:40.142Z","ctime":"2021-06-21T12:08:40.142Z","birthtime":"2021-06-21T11:03:52.256Z"},"remove":false,"isDirectory":false,"isFile":true}
+2021-06-21 20:08:40,209 INFO 31468 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/tokyo/Desktop/Study_Demo/Study_Egg/app/controller/home.js","stat":{"dev":16777234,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":1382761,"size":527,"blocks":8,"atimeMs":1624277313711.476,"mtimeMs":1624277320141.9238,"ctimeMs":1624277320141.9238,"birthtimeMs":1624273432255.8567,"atime":"2021-06-21T12:08:33.711Z","mtime":"2021-06-21T12:08:40.142Z","ctime":"2021-06-21T12:08:40.142Z","birthtime":"2021-06-21T11:03:52.256Z"},"remove":false,"isDirectory":false,"isFile":true}
+2021-06-21 20:20:17,581 INFO 31468 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/tokyo/Desktop/Study_Demo/Study_Egg/config/config.default.js","stat":{"dev":16777234,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":1382758,"size":1389,"blocks":8,"atimeMs":1624273434073.5686,"mtimeMs":1624278017519.754,"ctimeMs":1624278017519.754,"birthtimeMs":1624273432255.0105,"atime":"2021-06-21T11:03:54.074Z","mtime":"2021-06-21T12:20:17.520Z","ctime":"2021-06-21T12:20:17.520Z","birthtime":"2021-06-21T11:03:52.255Z"},"remove":false,"isDirectory":false,"isFile":true}
+2021-06-21 20:20:17,783 WARN 31468 [agent:development] reload worker because /Users/tokyo/Desktop/Study_Demo/Study_Egg/config/config.default.js change
+2021-06-21 20:20:18,540 WARN 31468 [agent:development] reload worker because /Users/tokyo/Desktop/Study_Demo/Study_Egg/config/config.default.js change
+2021-06-21 20:20:18,284 INFO 31468 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/tokyo/Desktop/Study_Demo/Study_Egg/config/config.default.js","stat":{"dev":16777234,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":1382758,"size":1614,"blocks":8,"atimeMs":1624278018250.9976,"mtimeMs":1624278018273.0461,"ctimeMs":1624278018273.0461,"birthtimeMs":1624273432255.0105,"atime":"2021-06-21T12:20:18.251Z","mtime":"2021-06-21T12:20:18.273Z","ctime":"2021-06-21T12:20:18.273Z","birthtime":"2021-06-21T11:03:52.255Z"},"remove":false,"isDirectory":false,"isFile":true}
+2021-06-21 20:20:18,335 INFO 31468 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/tokyo/Desktop/Study_Demo/Study_Egg/config/config.default.js","stat":{"dev":16777234,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":1382758,"size":1614,"blocks":8,"atimeMs":1624278018250.9976,"mtimeMs":1624278018273.0461,"ctimeMs":1624278018273.0461,"birthtimeMs":1624273432255.0105,"atime":"2021-06-21T12:20:18.251Z","mtime":"2021-06-21T12:20:18.273Z","ctime":"2021-06-21T12:20:18.273Z","birthtime":"2021-06-21T11:03:52.255Z"},"remove":false,"isDirectory":false,"isFile":true}
+2021-06-21 20:38:38,656 INFO 32513 [egg-sequelize](52ms) Executed (default): SELECT 1+1 AS result
+2021-06-21 20:38:37,865 INFO 32513 [egg:logger] init all loggers with options: {"dir":"/Users/tokyo/Desktop/Study_Demo/Study_Egg/logs/studyegg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"studyegg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2021-06-21 20:38:38,011 INFO 32513 [egg:core] dump config after load, 4ms
+2021-06-21 20:38:38,048 INFO 32513 [egg-watcher] Start watching: ["/Users/tokyo/Desktop/Study_Demo/Study_Egg/app","/Users/tokyo/Desktop/Study_Demo/Study_Egg/config","/Users/tokyo/Desktop/Study_Demo/Study_Egg/mocks","/Users/tokyo/Desktop/Study_Demo/Study_Egg/mocks_proxy","/Users/tokyo/Desktop/Study_Demo/Study_Egg/app.js"]
+2021-06-21 20:38:38,048 INFO 32513 [egg-watcher] Start watching: "/Users/tokyo/Desktop/Study_Demo/Study_Egg/app"
+2021-06-21 20:38:38,049 INFO 32513 [egg-watcher] Start watching: "/Users/tokyo/Desktop/Study_Demo/Study_Egg/config"
+2021-06-21 20:38:38,049 INFO 32513 [egg-watcher] Start watching: "/Users/tokyo/Desktop/Study_Demo/Study_Egg/mocks"
+2021-06-21 20:38:38,049 INFO 32513 [egg-watcher] Start watching: "/Users/tokyo/Desktop/Study_Demo/Study_Egg/mocks_proxy"
+2021-06-21 20:38:38,049 INFO 32513 [egg-watcher] Start watching: "/Users/tokyo/Desktop/Study_Demo/Study_Egg/app.js"
+2021-06-21 20:38:38,049 INFO 32513 [egg-watcher:agent] watcher start success
+2021-06-21 20:38:38,672 INFO 32513 [egg:core] dump config after ready, 8ms
+2021-06-21 21:54:12,318 WARN 33933 Sequelize Error: Access denied for user 'root'@'117.136.79.159' (using password: YES), sleep 1 seconds to retry...
+2021-06-21 21:54:11,843 INFO 33933 [egg:logger] init all loggers with options: {"dir":"/Users/tokyo/Desktop/Study_Demo/Study_Egg/logs/studyegg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"studyegg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2021-06-21 21:54:11,996 INFO 33933 [egg:core] dump config after load, 3ms
+2021-06-21 21:54:12,033 INFO 33933 [egg-watcher] Start watching: ["/Users/tokyo/Desktop/Study_Demo/Study_Egg/app","/Users/tokyo/Desktop/Study_Demo/Study_Egg/config","/Users/tokyo/Desktop/Study_Demo/Study_Egg/mocks","/Users/tokyo/Desktop/Study_Demo/Study_Egg/mocks_proxy","/Users/tokyo/Desktop/Study_Demo/Study_Egg/app.js"]
+2021-06-21 21:54:12,033 INFO 33933 [egg-watcher] Start watching: "/Users/tokyo/Desktop/Study_Demo/Study_Egg/app"
+2021-06-21 21:54:12,033 INFO 33933 [egg-watcher] Start watching: "/Users/tokyo/Desktop/Study_Demo/Study_Egg/config"
+2021-06-21 21:54:12,033 INFO 33933 [egg-watcher] Start watching: "/Users/tokyo/Desktop/Study_Demo/Study_Egg/mocks"
+2021-06-21 21:54:12,033 INFO 33933 [egg-watcher] Start watching: "/Users/tokyo/Desktop/Study_Demo/Study_Egg/mocks_proxy"
+2021-06-21 21:54:12,033 INFO 33933 [egg-watcher] Start watching: "/Users/tokyo/Desktop/Study_Demo/Study_Egg/app.js"
+2021-06-21 21:54:12,033 INFO 33933 [egg-watcher:agent] watcher start success
+2021-06-21 21:54:13,561 WARN 33933 Sequelize Error: Access denied for user 'root'@'117.136.79.159' (using password: YES), sleep 1 seconds to retry...
+2021-06-21 21:54:14,788 WARN 33933 Sequelize Error: Access denied for user 'root'@'117.136.79.159' (using password: YES), sleep 1 seconds to retry...
+2021-06-21 21:54:16,027 ERROR 33933 nodejs.SequelizeAccessDeniedError: Access denied for user 'root'@'117.136.79.159' (using password: YES)
+    at ConnectionManager.connect (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/sequelize/lib/dialects/mysql/connection-manager.js:118:17)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+    at async ConnectionManager._connect (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/sequelize/lib/dialects/abstract/connection-manager.js:318:24)
+    at async /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/sequelize/lib/dialects/abstract/connection-manager.js:250:32
+    at async ConnectionManager.getConnection (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/sequelize/lib/dialects/abstract/connection-manager.js:280:7)
+    at async /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/sequelize/lib/sequelize.js:613:26
+    at async Sequelize.authenticate (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/sequelize/lib/sequelize.js:867:5)
+    at async authenticate (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-sequelize/lib/loader.js:134:7)
+    at async authenticate (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-sequelize/lib/loader.js:142:7)
+    at async authenticate (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-sequelize/lib/loader.js:142:7)
+name: "SequelizeAccessDeniedError"
+parent: {"code":"ER_ACCESS_DENIED_ERROR","errno":1045,"sqlState":"28000","sqlMessage":"Access denied for user 'root'@'117.136.79.159' (using password: YES)"}
+original: {"code":"ER_ACCESS_DENIED_ERROR","errno":1045,"sqlState":"28000","sqlMessage":"Access denied for user 'root'@'117.136.79.159' (using password: YES)"}
+pid: 33933
+hostname: Tokyos-MBP
+
+2021-06-21 21:54:16,040 INFO 33933 [egg:core] dump config after ready, 11ms
+2021-06-21 21:58:10,894 WARN 33969 Sequelize Error: Access denied for user 'root'@'117.136.79.159' (using password: YES), sleep 1 seconds to retry...
+2021-06-21 21:58:10,492 INFO 33969 [egg:logger] init all loggers with options: {"dir":"/Users/tokyo/Desktop/Study_Demo/Study_Egg/logs/studyegg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"studyegg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2021-06-21 21:58:10,635 INFO 33969 [egg:core] dump config after load, 4ms
+2021-06-21 21:58:10,670 INFO 33969 [egg-watcher] Start watching: ["/Users/tokyo/Desktop/Study_Demo/Study_Egg/app","/Users/tokyo/Desktop/Study_Demo/Study_Egg/config","/Users/tokyo/Desktop/Study_Demo/Study_Egg/mocks","/Users/tokyo/Desktop/Study_Demo/Study_Egg/mocks_proxy","/Users/tokyo/Desktop/Study_Demo/Study_Egg/app.js"]
+2021-06-21 21:58:10,670 INFO 33969 [egg-watcher] Start watching: "/Users/tokyo/Desktop/Study_Demo/Study_Egg/app"
+2021-06-21 21:58:10,671 INFO 33969 [egg-watcher] Start watching: "/Users/tokyo/Desktop/Study_Demo/Study_Egg/config"
+2021-06-21 21:58:10,671 INFO 33969 [egg-watcher] Start watching: "/Users/tokyo/Desktop/Study_Demo/Study_Egg/mocks"
+2021-06-21 21:58:10,671 INFO 33969 [egg-watcher] Start watching: "/Users/tokyo/Desktop/Study_Demo/Study_Egg/mocks_proxy"
+2021-06-21 21:58:10,671 INFO 33969 [egg-watcher] Start watching: "/Users/tokyo/Desktop/Study_Demo/Study_Egg/app.js"
+2021-06-21 21:58:10,671 INFO 33969 [egg-watcher:agent] watcher start success
+2021-06-21 21:58:12,098 WARN 33969 Sequelize Error: Access denied for user 'root'@'117.136.79.159' (using password: YES), sleep 1 seconds to retry...
+2021-06-21 21:58:13,337 WARN 33969 Sequelize Error: Access denied for user 'root'@'117.136.79.159' (using password: YES), sleep 1 seconds to retry...
+2021-06-21 21:58:14,582 ERROR 33969 nodejs.SequelizeAccessDeniedError: Access denied for user 'root'@'117.136.79.159' (using password: YES)
+    at ConnectionManager.connect (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/sequelize/lib/dialects/mysql/connection-manager.js:118:17)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+    at async ConnectionManager._connect (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/sequelize/lib/dialects/abstract/connection-manager.js:318:24)
+    at async /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/sequelize/lib/dialects/abstract/connection-manager.js:250:32
+    at async ConnectionManager.getConnection (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/sequelize/lib/dialects/abstract/connection-manager.js:280:7)
+    at async /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/sequelize/lib/sequelize.js:613:26
+    at async Sequelize.authenticate (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/sequelize/lib/sequelize.js:867:5)
+    at async authenticate (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-sequelize/lib/loader.js:134:7)
+    at async authenticate (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-sequelize/lib/loader.js:142:7)
+    at async authenticate (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-sequelize/lib/loader.js:142:7)
+name: "SequelizeAccessDeniedError"
+parent: {"code":"ER_ACCESS_DENIED_ERROR","errno":1045,"sqlState":"28000","sqlMessage":"Access denied for user 'root'@'117.136.79.159' (using password: YES)"}
+original: {"code":"ER_ACCESS_DENIED_ERROR","errno":1045,"sqlState":"28000","sqlMessage":"Access denied for user 'root'@'117.136.79.159' (using password: YES)"}
+pid: 33969
+hostname: Tokyos-MBP
+
+2021-06-21 21:58:14,593 INFO 33969 [egg:core] dump config after ready, 10ms
+2021-06-21 22:04:59,923 INFO 33999 [egg-sequelize](78ms) Executed (default): SELECT 1+1 AS result
+2021-06-21 22:04:58,994 INFO 33999 [egg:logger] init all loggers with options: {"dir":"/Users/tokyo/Desktop/Study_Demo/Study_Egg/logs/studyegg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"studyegg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2021-06-21 22:04:59,141 INFO 33999 [egg:core] dump config after load, 4ms
+2021-06-21 22:04:59,178 INFO 33999 [egg-watcher] Start watching: ["/Users/tokyo/Desktop/Study_Demo/Study_Egg/app","/Users/tokyo/Desktop/Study_Demo/Study_Egg/config","/Users/tokyo/Desktop/Study_Demo/Study_Egg/mocks","/Users/tokyo/Desktop/Study_Demo/Study_Egg/mocks_proxy","/Users/tokyo/Desktop/Study_Demo/Study_Egg/app.js"]
+2021-06-21 22:04:59,178 INFO 33999 [egg-watcher] Start watching: "/Users/tokyo/Desktop/Study_Demo/Study_Egg/app"
+2021-06-21 22:04:59,178 INFO 33999 [egg-watcher] Start watching: "/Users/tokyo/Desktop/Study_Demo/Study_Egg/config"
+2021-06-21 22:04:59,178 INFO 33999 [egg-watcher] Start watching: "/Users/tokyo/Desktop/Study_Demo/Study_Egg/mocks"
+2021-06-21 22:04:59,178 INFO 33999 [egg-watcher] Start watching: "/Users/tokyo/Desktop/Study_Demo/Study_Egg/mocks_proxy"
+2021-06-21 22:04:59,178 INFO 33999 [egg-watcher] Start watching: "/Users/tokyo/Desktop/Study_Demo/Study_Egg/app.js"
+2021-06-21 22:04:59,179 INFO 33999 [egg-watcher:agent] watcher start success
+2021-06-21 22:04:59,939 INFO 33999 [egg:core] dump config after ready, 9ms
+2021-06-21 22:26:07,844 ERROR 33999 nodejs.ClusterClientNoResponseError: client no response in 947084ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:557:17)
+    at processTimers (internal/timers.js:500:7)
+name: "ClusterClientNoResponseError"
+pid: 33999
+hostname: Tokyos-MBP
+
+2021-06-21 22:41:14,530 ERROR 33999 nodejs.ClusterClientNoResponseError: client no response in 906679ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:557:17)
+    at processTimers (internal/timers.js:500:7)
+name: "ClusterClientNoResponseError"
+pid: 33999
+hostname: Tokyos-MBP
+
+2021-06-21 22:43:28,072 ERROR 33999 nodejs.ClusterClientNoResponseError: client no response in 133537ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:557:17)
+    at processTimers (internal/timers.js:500:7)
+name: "ClusterClientNoResponseError"
+pid: 33999
+hostname: Tokyos-MBP
+

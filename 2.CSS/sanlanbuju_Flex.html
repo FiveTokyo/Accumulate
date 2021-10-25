@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <style>
+    body {
+      padding: 0;
+      margin: 0;
+      overflow: hidden;
+      position: absolute;
+      width: 100%;
+      height: 100%;
+    }
+    .nav {
+      width: 100%;
+      background-color: rgb(71, 46, 46);
+      height: 100px;
+    }
+    .containt {
+      display: flex;
+      width: 100%;
+      height: calc(100% - 200px);
+      box-sizing: border-box;
+    }
+    .footer {
+      width: 100%;
+      height: 100px;
+      background-color: rgb(105, 33, 33);
+    }
+    .left,
+    .right {
+      flex: 0 0 100px;
+      background-color: red;
+    }
+    .center {
+      flex: 1;
+      background-color: black;
+    }
+    .right {
+      flex: 0 0 100px;
+      background-color: rgb(156, 218, 14);
+    }
+  </style>
+  <body>
+    <div class="nav"></div>
+    <div class="containt">
+      <div class="left"></div>
+      <div class="center"></div>
+      <div class="right"></div>
+    </div>
+    <div class="footer"></div>
+  </body>
+</html>

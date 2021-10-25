@@ -1,0 +1,9 @@
+2021-06-25 04:45:38,575 INFO 19288 [Job#162456753857065370310873751] /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js executing by app
+2021-06-25 04:45:38,583 INFO 19288 [Job#162456753857065370310873751] /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js execute succeed, used 8ms. 
+2021-06-25 04:45:38,579 INFO 15606 [Timer] /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 85461430ms at 2021-06-26 04:30:00.009
+2021-06-26 00:03:49,935 INFO 19288 [Job#1624637029921134863167133332] /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-logrotator/app/schedule/clean_log.js executing by app
+2021-06-26 00:03:49,937 INFO 19288 [Job#1624637029931134863267050832] /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js executing by app
+2021-06-26 00:03:49,944 INFO 19288 [Job#1624637029921134863167133332] /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-logrotator/app/schedule/clean_log.js execute succeed, used 8ms. 
+2021-06-26 00:03:49,946 INFO 19288 [Job#1624637029931134863267050832] /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js execute succeed, used 8ms. 
+2021-06-26 00:03:49,930 INFO 15606 [Timer] /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 86170079ms at 2021-06-27 00:00:00.009
+2021-06-26 00:03:49,934 INFO 15606 [Timer] /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 86171069ms at 2021-06-27 00:00:01.003

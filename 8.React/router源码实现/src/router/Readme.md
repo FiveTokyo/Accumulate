@@ -1,0 +1,1 @@
+1. 主要借用第三方库history创建一个history对象,通过props属性传给Router，在由Router，创建一个上下文传history对象,自身创建状态触发更新，并通过history.listen 当前页面pathname的变化，再重新赋值给location触发更新；

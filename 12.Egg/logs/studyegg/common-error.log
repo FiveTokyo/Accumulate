@@ -1,0 +1,390 @@
+2021-06-26 00:19:48,704 ERROR 15606 nodejs.ClusterClientNoResponseError: client no response in 958767ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:557:17)
+    at processTimers (internal/timers.js:500:7)
+name: "ClusterClientNoResponseError"
+pid: 15606
+hostname: Tokyos-MacBook-Pro.local
+
+2021-06-26 00:35:53,361 ERROR 15606 nodejs.ClusterClientNoResponseError: client no response in 964654ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:557:17)
+    at processTimers (internal/timers.js:500:7)
+name: "ClusterClientNoResponseError"
+pid: 15606
+hostname: Tokyos-MacBook-Pro.local
+
+2021-06-26 00:51:07,019 ERROR 15606 nodejs.ClusterClientNoResponseError: client no response in 913653ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:557:17)
+    at processTimers (internal/timers.js:500:7)
+name: "ClusterClientNoResponseError"
+pid: 15606
+hostname: Tokyos-MacBook-Pro.local
+
+2021-06-26 01:21:59,313 ERROR 15606 nodejs.ClusterClientNoResponseError: client no response in 918647ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:557:17)
+    at processTimers (internal/timers.js:500:7)
+name: "ClusterClientNoResponseError"
+pid: 15606
+hostname: Tokyos-MacBook-Pro.local
+
+2021-06-26 01:38:03,960 ERROR 15606 nodejs.ClusterClientNoResponseError: client no response in 964637ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:557:17)
+    at processTimers (internal/timers.js:500:7)
+name: "ClusterClientNoResponseError"
+pid: 15606
+hostname: Tokyos-MacBook-Pro.local
+
+2021-06-26 02:11:16,511 ERROR 15606 nodejs.ClusterClientNoResponseError: client no response in 1056860ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:557:17)
+    at processTimers (internal/timers.js:500:7)
+name: "ClusterClientNoResponseError"
+pid: 15606
+hostname: Tokyos-MacBook-Pro.local
+
+2021-06-26 02:44:54,856 ERROR 15606 nodejs.ClusterClientNoResponseError: client no response in 1080680ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:557:17)
+    at processTimers (internal/timers.js:500:7)
+name: "ClusterClientNoResponseError"
+pid: 15606
+hostname: Tokyos-MacBook-Pro.local
+
+2021-06-26 03:17:12,995 ERROR 15606 nodejs.ClusterClientNoResponseError: client no response in 988093ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:557:17)
+    at processTimers (internal/timers.js:500:7)
+name: "ClusterClientNoResponseError"
+pid: 15606
+hostname: Tokyos-MacBook-Pro.local
+
+2021-06-26 03:50:27,383 ERROR 15606 nodejs.ClusterClientNoResponseError: client no response in 927843ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:557:17)
+    at processTimers (internal/timers.js:500:7)
+name: "ClusterClientNoResponseError"
+pid: 15606
+hostname: Tokyos-MacBook-Pro.local
+
+2021-06-26 04:06:54,089 ERROR 15606 nodejs.ClusterClientNoResponseError: client no response in 986703ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:557:17)
+    at processTimers (internal/timers.js:500:7)
+name: "ClusterClientNoResponseError"
+pid: 15606
+hostname: Tokyos-MacBook-Pro.local
+
+2021-06-26 04:40:00,442 ERROR 15606 nodejs.ClusterClientNoResponseError: client no response in 983710ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:557:17)
+    at processTimers (internal/timers.js:500:7)
+name: "ClusterClientNoResponseError"
+pid: 15606
+hostname: Tokyos-MacBook-Pro.local
+
+2021-06-26 05:11:35,650 ERROR 15606 nodejs.ClusterClientNoResponseError: client no response in 925657ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:557:17)
+    at processTimers (internal/timers.js:500:7)
+name: "ClusterClientNoResponseError"
+pid: 15606
+hostname: Tokyos-MacBook-Pro.local
+
+2021-06-26 05:45:29,987 ERROR 15606 nodejs.ClusterClientNoResponseError: client no response in 958661ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:557:17)
+    at processTimers (internal/timers.js:500:7)
+name: "ClusterClientNoResponseError"
+pid: 15606
+hostname: Tokyos-MacBook-Pro.local
+
+2021-06-26 06:01:29,552 ERROR 15606 nodejs.ClusterClientNoResponseError: client no response in 959561ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:557:17)
+    at processTimers (internal/timers.js:500:7)
+name: "ClusterClientNoResponseError"
+pid: 15606
+hostname: Tokyos-MacBook-Pro.local
+
+2021-06-26 06:51:12,546 ERROR 15606 nodejs.ClusterClientNoResponseError: client no response in 998685ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:557:17)
+    at processTimers (internal/timers.js:500:7)
+name: "ClusterClientNoResponseError"
+pid: 15606
+hostname: Tokyos-MacBook-Pro.local
+
+2021-06-26 07:08:29,167 ERROR 15606 nodejs.ClusterClientNoResponseError: client no response in 1036612ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:557:17)
+    at processTimers (internal/timers.js:500:7)
+name: "ClusterClientNoResponseError"
+pid: 15606
+hostname: Tokyos-MacBook-Pro.local
+
+2021-06-26 07:24:55,881 ERROR 15606 nodejs.ClusterClientNoResponseError: client no response in 986710ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:557:17)
+    at processTimers (internal/timers.js:500:7)
+name: "ClusterClientNoResponseError"
+pid: 15606
+hostname: Tokyos-MacBook-Pro.local
+
+2021-06-26 07:42:22,424 ERROR 15606 nodejs.ClusterClientNoResponseError: client no response in 1046537ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:557:17)
+    at processTimers (internal/timers.js:500:7)
+name: "ClusterClientNoResponseError"
+pid: 15606
+hostname: Tokyos-MacBook-Pro.local
+
+2021-06-26 07:57:38,011 ERROR 15606 nodejs.ClusterClientNoResponseError: client no response in 915582ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:557:17)
+    at processTimers (internal/timers.js:500:7)
+name: "ClusterClientNoResponseError"
+pid: 15606
+hostname: Tokyos-MacBook-Pro.local
+
+2021-06-26 08:30:49,408 ERROR 15606 nodejs.ClusterClientNoResponseError: client no response in 978708ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:557:17)
+    at processTimers (internal/timers.js:500:7)
+name: "ClusterClientNoResponseError"
+pid: 15606
+hostname: Tokyos-MacBook-Pro.local
+
+2021-06-26 09:03:24,197 ERROR 15606 nodejs.ClusterClientNoResponseError: client no response in 958078ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:557:17)
+    at processTimers (internal/timers.js:500:7)
+name: "ClusterClientNoResponseError"
+pid: 15606
+hostname: Tokyos-MacBook-Pro.local
+
+2021-06-26 09:21:02,930 ERROR 15606 nodejs.ClusterClientNoResponseError: client no response in 1058729ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:557:17)
+    at processTimers (internal/timers.js:500:7)
+name: "ClusterClientNoResponseError"
+pid: 15606
+hostname: Tokyos-MacBook-Pro.local
+
+2021-06-26 09:38:37,616 ERROR 15606 nodejs.ClusterClientNoResponseError: client no response in 1054683ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:557:17)
+    at processTimers (internal/timers.js:500:7)
+name: "ClusterClientNoResponseError"
+pid: 15606
+hostname: Tokyos-MacBook-Pro.local
+
+2021-06-26 09:55:45,288 ERROR 15606 nodejs.ClusterClientNoResponseError: client no response in 1027669ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:557:17)
+    at processTimers (internal/timers.js:500:7)
+name: "ClusterClientNoResponseError"
+pid: 15606
+hostname: Tokyos-MacBook-Pro.local
+
+2021-06-26 10:26:35,801 ERROR 15606 nodejs.ClusterClientNoResponseError: client no response in 909832ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:557:17)
+    at processTimers (internal/timers.js:500:7)
+name: "ClusterClientNoResponseError"
+pid: 15606
+hostname: Tokyos-MacBook-Pro.local
+
+2021-06-26 10:43:41,394 ERROR 15606 nodejs.ClusterClientNoResponseError: client no response in 1025590ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:557:17)
+    at processTimers (internal/timers.js:500:7)
+name: "ClusterClientNoResponseError"
+pid: 15606
+hostname: Tokyos-MacBook-Pro.local
+
+2021-06-26 12:07:01,802 ERROR 15606 nodejs.ClusterClientNoResponseError: client no response in 1044620ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:557:17)
+    at processTimers (internal/timers.js:500:7)
+name: "ClusterClientNoResponseError"
+pid: 15606
+hostname: Tokyos-MacBook-Pro.local
+
+2021-06-26 12:40:01,174 ERROR 15606 nodejs.ClusterClientNoResponseError: client no response in 1006694ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:557:17)
+    at processTimers (internal/timers.js:500:7)
+name: "ClusterClientNoResponseError"
+pid: 15606
+hostname: Tokyos-MacBook-Pro.local
+
+2021-06-26 13:14:52,569 ERROR 15606 nodejs.ClusterClientNoResponseError: client no response in 1041808ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:557:17)
+    at processTimers (internal/timers.js:500:7)
+name: "ClusterClientNoResponseError"
+pid: 15606
+hostname: Tokyos-MacBook-Pro.local
+
+2021-06-26 13:48:44,930 ERROR 15606 nodejs.ClusterClientNoResponseError: client no response in 1049667ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:557:17)
+    at processTimers (internal/timers.js:500:7)
+name: "ClusterClientNoResponseError"
+pid: 15606
+hostname: Tokyos-MacBook-Pro.local
+
+2021-06-26 14:05:35,576 ERROR 15606 nodejs.ClusterClientNoResponseError: client no response in 1010642ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:557:17)
+    at processTimers (internal/timers.js:500:7)
+name: "ClusterClientNoResponseError"
+pid: 15606
+hostname: Tokyos-MacBook-Pro.local
+
+2021-06-26 14:22:35,277 ERROR 15606 nodejs.ClusterClientNoResponseError: client no response in 1019696ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:557:17)
+    at processTimers (internal/timers.js:500:7)
+name: "ClusterClientNoResponseError"
+pid: 15606
+hostname: Tokyos-MacBook-Pro.local
+
+2021-06-26 14:38:35,974 ERROR 15606 nodejs.ClusterClientNoResponseError: client no response in 960690ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:557:17)
+    at processTimers (internal/timers.js:500:7)
+name: "ClusterClientNoResponseError"
+pid: 15606
+hostname: Tokyos-MacBook-Pro.local
+
+2021-06-26 14:54:52,635 ERROR 15606 nodejs.ClusterClientNoResponseError: client no response in 976656ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:557:17)
+    at processTimers (internal/timers.js:500:7)
+name: "ClusterClientNoResponseError"
+pid: 15606
+hostname: Tokyos-MacBook-Pro.local
+
+2021-06-26 15:11:25,467 ERROR 15606 nodejs.ClusterClientNoResponseError: client no response in 992827ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:557:17)
+    at processTimers (internal/timers.js:500:7)
+name: "ClusterClientNoResponseError"
+pid: 15606
+hostname: Tokyos-MacBook-Pro.local
+
+2021-10-04 08:32:58,388 ERROR 91387 [-/127.0.0.1/-/18ms POST /user/create] test.createUser调用异常/user.createUser TypeError: Cannot read property 'User' of undefined
+    at TestService.createUser (/Users/tokyo/Desktop/Study_Demo/Study_Egg/app/service/user.js:17:43)
+    at HomeController.createUser (/Users/tokyo/Desktop/Study_Demo/Study_Egg/app/controller/user.js:18:45)
+    at Object.callFn (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/node_modules/koa-compose/index.js:45:18)
+    at /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/lib/router.js:190:18
+    at dispatch (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/node_modules/koa-compose/index.js:44:32)
+2021-10-04 08:34:46,671 ERROR 91459 [-/127.0.0.1/-/22ms POST /user/create] test.createUser调用异常/user.createUser TypeError: Cannot read property 'createUser' of undefined
+    at HomeController.createUser (/Users/tokyo/Desktop/Study_Demo/Study_Egg/app/controller/user.js:18:45)
+    at Object.callFn (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/node_modules/koa-compose/index.js:45:18)
+    at /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/lib/router.js:190:18
+    at dispatch (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/node_modules/koa-compose/index.js:44:32)
+    at /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/node_modules/koa-compose/index.js:36:12
+2021-10-04 08:35:28,658 ERROR 91531 [-/127.0.0.1/-/16ms POST /user/create] test.createUser调用异常/user.createUser TypeError: Cannot read property 'createUser' of undefined
+    at HomeController.createUser (/Users/tokyo/Desktop/Study_Demo/Study_Egg/app/controller/user.js:18:45)
+    at Object.callFn (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/node_modules/koa-compose/index.js:45:18)
+    at /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/lib/router.js:190:18
+    at dispatch (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/node_modules/koa-compose/index.js:44:32)
+    at /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/node_modules/koa-compose/index.js:36:12
+2021-10-04 08:36:35,365 ERROR 91583 [-/127.0.0.1/-/42ms POST /user/create] test.createUser调用异常/user.createUser TypeError: Cannot read property 'Users' of undefined
+    at TestService.createUser (/Users/tokyo/Desktop/Study_Demo/Study_Egg/app/service/users.js:17:43)
+    at HomeController.createUser (/Users/tokyo/Desktop/Study_Demo/Study_Egg/app/controller/user.js:18:46)
+    at Object.callFn (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/node_modules/koa-compose/index.js:45:18)
+    at /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/lib/router.js:190:18
+    at dispatch (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/node_modules/koa-compose/index.js:44:32)
+2021-10-04 08:38:20,102 ERROR 91662 [-/127.0.0.1/-/13ms POST /user/create] user.createUser调用异常/user.createUser TypeError: Cannot read property 'Users' of undefined
+    at Users.createUser (/Users/tokyo/Desktop/Study_Demo/Study_Egg/app/service/users.js:17:43)
+    at HomeController.createUser (/Users/tokyo/Desktop/Study_Demo/Study_Egg/app/controller/user.js:18:46)
+    at Object.callFn (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/node_modules/koa-compose/index.js:45:18)
+    at /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/lib/router.js:190:18
+    at dispatch (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/node_modules/koa-compose/index.js:44:32)
+2021-10-04 08:39:38,377 ERROR 91741 [-/127.0.0.1/-/16ms POST /user/create] user.createUser调用异常/user.createUser ReferenceError: Cannot access 'entity' before initialization
+    at HomeController.createUser (/Users/tokyo/Desktop/Study_Demo/Study_Egg/app/controller/user.js:18:29)
+    at Object.callFn (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/node_modules/koa-compose/index.js:45:18)
+    at /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/lib/router.js:190:18
+    at dispatch (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/node_modules/koa-compose/index.js:44:32)
+    at /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/node_modules/koa-compose/index.js:36:12
+2021-10-04 08:39:53,997 ERROR 91741 [-/127.0.0.1/-/1ms POST /user/create] user.createUser调用异常/user.createUser ReferenceError: Cannot access 'entity' before initialization
+    at HomeController.createUser (/Users/tokyo/Desktop/Study_Demo/Study_Egg/app/controller/user.js:18:29)
+    at Object.callFn (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/node_modules/koa-compose/index.js:45:18)
+    at /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/lib/router.js:190:18
+    at dispatch (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/node_modules/koa-compose/index.js:44:32)
+    at /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/node_modules/koa-compose/index.js:36:12
+2021-10-04 08:40:16,351 ERROR 91770 [-/127.0.0.1/-/20ms POST /user/create] user.createUser调用异常/user.createUser TypeError: Cannot read property 'Users' of undefined
+    at Users.createUser (/Users/tokyo/Desktop/Study_Demo/Study_Egg/app/service/users.js:18:43)
+    at HomeController.createUser (/Users/tokyo/Desktop/Study_Demo/Study_Egg/app/controller/user.js:18:46)
+    at Object.callFn (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/node_modules/koa-compose/index.js:45:18)
+    at /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/lib/router.js:190:18
+    at dispatch (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/node_modules/koa-compose/index.js:44:32)
+2021-10-04 08:40:59,975 ERROR 91798 [-/127.0.0.1/-/30ms POST /user/create] user.createUser调用异常/user.createUser TypeError: Cannot read property 'Users' of undefined
+    at Users.createUser (/Users/tokyo/Desktop/Study_Demo/Study_Egg/app/service/users.js:19:43)
+    at HomeController.createUser (/Users/tokyo/Desktop/Study_Demo/Study_Egg/app/controller/user.js:18:46)
+    at Object.callFn (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/node_modules/koa-compose/index.js:45:18)
+    at /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/lib/router.js:190:18
+    at dispatch (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/node_modules/koa-compose/index.js:44:32)
+2021-10-04 09:07:39,415 ERROR 93154 [-/127.0.0.1/-/18ms POST /user/create] user.createUser调用异常/user.createUser TypeError: Cannot read property 'Users' of undefined
+    at Users.createUser (/Users/tokyo/Desktop/Study_Demo/Study_Egg/app/service/users.js:19:43)
+    at HomeController.createUser (/Users/tokyo/Desktop/Study_Demo/Study_Egg/app/controller/user.js:18:46)
+    at Object.callFn (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/node_modules/koa-compose/index.js:45:18)
+    at /Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/lib/router.js:190:18
+    at dispatch (/Users/tokyo/Desktop/Study_Demo/Study_Egg/node_modules/@eggjs/router/node_modules/koa-compose/index.js:44:32)

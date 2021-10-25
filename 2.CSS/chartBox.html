@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <style>
+    body {
+      padding: 0;
+      margin: 0;
+    }
+    .chart {
+      width: 100%;
+      height: 100%;
+      padding: 20px;
+      position: absolute;
+      overflow-y: scroll;
+      overflow-x: hidden;
+      box-sizing: border-box;
+    }
+    .otherChart {
+      width: 100%;
+    }
+    .ChatBox {
+      clear: both;
+      display: flex;
+      align-items: flex-start;
+      margin-top: 20px;
+    }
+
+    .myChatBox {
+      float: left;
+    }
+    .otherChatBox {
+      float: right;
+    }
+    .ChatBox::before {
+      clear: both;
+      content: '';
+      display: block;
+      width: 0;
+      height: 0;
+      visibility: hidden;
+    }
+
+    .ChatBox_chartContent {
+      position: relative;
+      margin-left: 16px;
+      display: inline-block;
+      padding: 10px 5px;
+      background-color: rgb(2, 248, 56);
+      word-wrap: break-word;
+      max-width: 200px;
+      border-radius: 5px;
+    }
+    .ChatBox_chartContent::before,
+    .ChatBox_chartContent::after {
+      position: absolute;
+      content: '';
+      width: 0;
+      height: 0;
+      top: 5px;
+    }
+    .ChatBox_otherChartContent {
+      margin-right: 10px;
+    }
+
+    .ChatBox_myChartContent::before {
+      left: -16px;
+      border-top: 8px solid transparent;
+      border-right: 8px solid rgb(2, 248, 56);
+      border-bottom: 8px solid transparent;
+      border-left: 8px solid transparent;
+    }
+    .ChatBox .ChatBox_otherChartContent::after {
+      right: -16px;
+
+      border-top: 8px solid transparent;
+      border-right: 8px solid transparent;
+      border-bottom: 8px solid transparent;
+      border-left: 8px solid rgb(2, 248, 56);
+    }
+    .curChart_avatar {
+      width: 30px;
+      height: 30px;
+    }
+  </style>
+  <body>
+    <div class="chart">
+      <div class="ChatBox myChatBox">
+        <img src="./assets/favicon.ico" alt="" class="curChart_avatar" />
+        <div class="ChatBox_chartContent ChatBox_myChartContent">
+          hellasasdsadadasdasdowhellasasdsadadasdasdowhellasasdsadadasdasdowhellasasdsadadasdasdowhellasasdsadadasdasdowhellasasdsadadasdasdow
+        </div>
+      </div>
+      <div class="ChatBox otherChatBox">
+        <div class="ChatBox_chartContent ChatBox_otherChartContent">
+          helldasdasdaow
+        </div>
+        <img src="./assets/favicon.ico" alt="" class="curChart_avatar" />
+      </div>
+      <div class="ChatBox myChatBox">
+        <img src="./assets/favicon.ico" alt="" class="curChart_avatar" />
+        <div class="ChatBox_chartContent ChatBox_myChartContent">j</div>
+      </div>
+      <div class="ChatBox otherChatBox">
+        <div class="ChatBox_chartContent ChatBox_otherChartContent">h</div>
+        <img src="./assets/favicon.ico" alt="" class="curChart_avatar" />
+      </div>
+    </div>
+  </body>
+</html>
